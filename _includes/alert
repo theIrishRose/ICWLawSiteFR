@@ -25,7 +25,27 @@
 *       {% include alert success="Yay! you did it!" classes='round' %}
 *
 {% endcomment %}
-{% for entry in include %}
-{% if entry[0] == 'classes' %}{% continue %}{% endif %}
-<div class="alert-box {{ entry[0] }} {{ include.classes }}">{% if entry[0] contains 'terminal' %}{{ entry[1] }}{% else %}{{ entry[1] | markdownify }}{% endif %}</div>
-{% endfor %}
+{% assign alert_type = nil %}
+{% assign alert_content = nil %}
+{% assign alert_classes = include.classes | default: '' %}
+
+{% if include.warning %}
+  {% assign alert_type = 'warning' %}
+  {% assign alert_content = include.warning %}
+{% elsif include.info %}
+  {% assign alert_type = 'info' %}
+  {% assign alert_content = include.info %}
+{% elsif include.success %}
+  {% assign alert_type = 'success' %}
+  {% assign alert_content = include.success %}
+{% elsif include.alert %}
+  {% assign alert_type = 'alert' %}
+  {% assign alert_content = include.alert %}
+{% elsif include.terminal %}
+  {% assign alert_type = 'terminal' %}
+  {% assign alert_content = include.terminal %}
+{% endif %}
+
+{% if alert_type and alert_content %}
+<div class="alert-box {{ alert_type }} {{ alert_classes }}">{% if alert_type == 'terminal' %}{{ alert_content }}{% else %}{{ alert_content | markdownify }}{% endif %}</div>
+{% endif %}
