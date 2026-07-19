@@ -36,7 +36,8 @@
 
   {% elsif category %}
 
-    {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
+    {% assign category_posts = site.categories[category] | default: empty %}
+    {% for post in category_posts limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
       <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
@@ -44,7 +45,8 @@
 
   {% elsif tag %}
 
-    {% for post in site.tags.[tag] limit:include.entries %}
+    {% assign tagged_posts = site.tags[tag] | default: empty %}
+    {% for post in tagged_posts limit:include.entries %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
 
