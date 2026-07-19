@@ -1,13 +1,27 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Getting Started in 10 Steps"
-subheadline         : "A Step-by-Step Guide"
-teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+title               : "About Ian"
+subheadline         : "Ian Walchesky"
+teaser              : "His approach is steady, strategic, and focused on long-term outcomes — not unnecessary conflict"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/getting-started/"
+permalink           : "/about-ian/"
 ---
+
+With more than two decades of experience in boutique legal practice, Ian has represented individuals and families across North Carolina in both preventative planning and courtroom matters.
+His approach is steady, strategic, and focused on long-term outcomes — not unnecessary conflict.
+He founded Walchesky Law Firm to provide:
+*  Personal attention
+*  Thoughtful legal strategy
+*  Clear communication
+*  Practical solutions
+
+
+When not practicing law, he values family, community, and time well spent.  His job is not to sell you legal services you do not need.  His job is to help you make informed decisions about your options, costs, and likely outcomes. 
+
+DELETE BELOW HERE WHEN DONE
+
 1. Open `_config.yml` and work it through, it's well documented.
 1. Add your own `logo.png` to `/assets/img/`.
 1. Add your own social media links and open `_data/socialmedia.yml`.
