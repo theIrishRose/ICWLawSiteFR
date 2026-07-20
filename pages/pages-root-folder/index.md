@@ -1,11 +1,12 @@
 ---
-layout: page
+layout              : page
+show_meta           : false
 title               : "Walchesky Law"
-subheadline         : "Ian Walchesky"
+subheadline         : ""
 teaser              : "Strategic Counsel. Steady Guidance. Real Protection."
 header:
-  image_fullwidth: "Walchesky_Law.jpg"
-  title: ""
+    image_fullwidth  : "header_unsplash_2.jpg"
+    title: ""
 permalink: /index.html
 homepage: true
 ---
