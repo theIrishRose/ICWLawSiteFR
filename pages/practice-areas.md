@@ -45,7 +45,7 @@ Whether you need a simple will, powers of attorney, healthcare directives, or a 
 
 Our approach emphasizes clear guidance, customized planning, and long-term protection—not cookie-cutter documents.
 
-**[Learn More →](practice-areas/estate-planning/)**
+**[Learn More →](/practice-areas/estate-planning/)**
 
 ---
 
@@ -58,7 +58,7 @@ With decades of experience in both state and federal appellate courts, **Walches
 
 Whether you are considering a direct appeal, post-conviction relief, or need appellate consultation during ongoing litigation, we provide strategic representation tailored to your circumstances.
 
-**[Learn More →](practice-areas/appeals/)**
+**[Learn More →](/practice-areas/appeals/)**
 
 ---
 ## Ready to Talk?

@@ -5,7 +5,7 @@ title: "Walcheksky Law Blog"
 subheadline: "Thoughts and Information from Walchesky Law"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/blogWalcheskylaw/"
+permalink: "/law/"
 ---
 <ul>
     {% for post in site.categories.Law %}

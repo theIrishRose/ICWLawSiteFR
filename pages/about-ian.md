@@ -3,37 +3,32 @@ layout              : page
 show_meta           : false
 title               : "About Ian"
 subheadline         : "Ian Walchesky"
-teaser              : "His approach is steady, strategic, and focused on long-term outcomes — not unnecessary conflict"
+teaser              : "Steady, strategic guidance for clients facing difficult legal decisions"
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : "gallery-example-7.jpg"
+   title: "Walchesky Law"
 permalink           : "/about-ian/"
 ---
 
-With more than two decades of experience in boutique legal practice, Ian has represented individuals and families across North Carolina in both preventative planning and courtroom matters.
-His approach is steady, strategic, and focused on long-term outcomes — not unnecessary conflict.
-He founded Walchesky Law Firm to provide:
-*  Personal attention
-*  Thoughtful legal strategy
-*  Clear communication
-*  Practical solutions
+With more than two decades of experience in boutique legal practice, Ian Walchesky has represented individuals and families across North Carolina in matters involving traffic defense, criminal defense, estate planning, and appeals. His work is grounded in careful listening, practical strategy, and clear communication.
 
+## A steady, strategic approach
 
-When not practicing law, he values family, community, and time well spent.  His job is not to sell you legal services you do not need.  His job is to help you make informed decisions about your options, costs, and likely outcomes. 
+Ian believes that good legal representation should be calm, direct, and focused on the client’s long-term interests. He helps clients understand their options, weigh the likely consequences, and make informed decisions with confidence.
 
-DELETE BELOW HERE WHEN DONE
+## What clients can expect
 
-1. Open `_config.yml` and work it through, it's well documented.
-1. Add your own `logo.png` to `/assets/img/`.
-1. Add your own social media links and open `_data/socialmedia.yml`.
-1. Open `_sass/_01_settings_colors.scss` and adjust the the colors to your taste.
-1. Customize your navigation and open `_data/navigation.yml`.
-1. Translate this theme and open `_data/language.yml`.
-1. Change the links in the footer and open `_data/services.yml` and `_data/network.yml`.
-1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. Make it yours and add your own content.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
+Walchesky Law is built around a simple promise:
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
+- Personal attention from the attorney handling the matter
+- Thoughtful legal strategy tailored to the facts of the case
+- Clear communication at each stage of the process
+- Practical solutions that reflect the client’s goals and budget
 
+## Why clients choose Ian
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+Clients value Ian’s honesty, responsiveness, and willingness to provide straightforward advice. He does not believe in unnecessary conflict, unnecessary fees, or pressure tactics. His goal is to help clients move forward with clarity and confidence.
+
+When not practicing law, Ian values family, community, and time well spent. He is committed to serving clients in a way that is respectful, dependable, and grounded in real-world judgment.
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/contact/">Schedule a Consultation</a>
