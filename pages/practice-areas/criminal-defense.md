@@ -2,7 +2,6 @@
 layout              : page
 show_meta           : false
 title               : "Criminal Defense"
-subheadline         : "Walchesky Law"
 teaser              : "Defending clients against criminal charges with practical strategy, honest guidance, and focused advocacy."
 header:
    image_fullwidth  : "header_homepage_13.jpg"
@@ -15,7 +14,7 @@ A criminal charge can affect your freedom, your reputation, your career, and you
 
 At **Walchesky Law**, we provide thoughtful and strategic criminal defense representation focused on protecting your rights, evaluating your options, and developing a defense strategy tailored to the specific circumstances of your case.
 
-With more than **21 years of courtroom experience**, Ian Walchesky understands that every case requires careful preparation, honest advice, and a clear plan moving forward.
+With more than **20 years of courtroom experience**, Ian Walchesky understands that every case requires careful preparation, honest advice, and a clear plan moving forward.
 
 ---
 

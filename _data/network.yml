@@ -2,21 +2,21 @@
   url: "/practice-areas/"
 
 - name: "Traffic Law"
-  url: "practice-areas/traffic-law/"
+  url: "/practice-areas/traffic-law/"
   class: "sitemap-link"
   title: "Traffic Law"
 
 - name: "Criminal Defense"
-  url: "practice-areas/criminal-defense/"
+  url: "/practice-areas/criminal-defense/"
   class: "sitemap-link"
   title: "Criminal Defense"
 
 - name: "Estate Planning"
-  url: "practice-areas/estate-planning/"
+  url: "/practice-areas/estate-planning/"
   class: "sitemap-link"
   title: "Estate Planning"
 
 - name: "Appeals"
-  url: "practice-areas/appeals/"
+  url: "/practice-areas/appeals/"
   class: "sitemap-link"
   title: "Appeals"

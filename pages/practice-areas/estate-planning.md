@@ -2,7 +2,6 @@
 layout              : page
 show_meta           : false
 title               : "Estate Planning"
-subheadline         : "Walchesky Law"
 teaser              : "Helping individuals and families create thoughtful estate plans that protect assets and provide clarity for the future."
 header:
    image_fullwidth  : "header_homepage_13.jpg"
@@ -10,7 +9,7 @@ permalink           : "/practice-areas/estate-planning/"
 ---
 ## Protect What Matters Most
 
-Estate planning is about more than preparing legal documents. It is about creating clarity, protecting the people you love, and making sure your wishes are honored when they matter most.
+Estate planning is about more than preparing legal documents. It is about analyzing each person's or family's situation adn goals, creating clarity, protecting the people you love, and making sure your wishes are honored when they matter most.
 
 At **Walchesky Law**, we help individuals, couples, and families create thoughtful estate plans tailored to their goals, circumstances, and priorities.
 
@@ -29,8 +28,9 @@ A foundation for protecting yourself and your loved ones.
 Includes:
 
 - Last Will and Testament
-- Financial Powers of Attorney
-- Healthcare Directives
+- Financial Power of Attorney
+- Advanced Directive (also known as a living will)
+- Heath Care Power of Attorney
 - Basic planning for future decision-making
 
 ---

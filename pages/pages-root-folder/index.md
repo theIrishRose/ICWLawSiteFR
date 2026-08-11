@@ -5,14 +5,14 @@ title               : "Walchesky Law"
 subheadline         : ""
 teaser              : "Strategic Counsel. Steady Guidance. Real Protection."
 header:
-    image_fullwidth  : "header_unsplash_2.jpg"
+    image_fullwidth  : "WalcheskyLawHeader.jpg"
     title: ""
 permalink: /index.html
 homepage: true
 ---
 When you're facing criminal charges, a traffic citation, or a legal issue that could affect your future, having experienced counsel matters. Walchesky Law provides strategic representation with straightforward advice and personal attention from start to finish.
 
-Serving clients across the Charlotte Metro Area and the Piedmont, Walchesky Law provides practical, honest legal guidance for people facing traffic charges, criminal matters, estate planning questions, and appellate issues.
+Serving clients across the Charlotte Metro Area, Lake Norman, and the Piedmont, Walchesky Law provides practical, honest legal guidance for people facing traffic charges, criminal matters, estate planning questions, and appellate issues.
 
 With more than 20 years of courtroom and boutique firm experience, Ian Walchesky helps clients make informed decisions with clear advice, direct attorney access, and a steady hand through difficult legal matters.
 
@@ -34,7 +34,7 @@ You receive seasoned legal judgment without the bureaucracy of a large firm.
 You work directly with your attorney — not passed off to staff.
 
 ### Clear Fees, No Surprises
-Flat-fee pricing for most services so you can make confident decisions.
+Flat-fee pricing for many services so you can make confident decisions with certainty about costs.
 
 ### Respect for Your Time
 Appointments are scheduled. Calls are returned promptly. Expectations are clear.
