@@ -9,11 +9,19 @@ permalink           : "/practice-areas/estate-planning/"
 ---
 ## Protect What Matters Most
 
-Estate planning is about more than preparing legal documents. It is about analyzing each person's or family's situation adn goals, creating clarity, protecting the people you love, and making sure your wishes are honored when they matter most.
+At other firms, estate planning is about providing clients with documents that, they hope, handle the clients' affairs after their death. At Walchesky Law, estate planning is about analyzing each person's or family's situation and goals, creating clarity, protecting the people you love, and making sure your wishes are honored when they matter most.
 
 At **Walchesky Law**, we help individuals, couples, and families create thoughtful estate plans tailored to their goals, circumstances, and priorities.
 
 Whether you need a straightforward will or a comprehensive trust-based plan, we provide personalized guidance designed to give you confidence today and protection for the future.
+
+---
+
+## Planning For Every Stage of Life
+
+Many people put off estate planning, thinking that they don't need it. Some do this because they think they don't have enough of an "estate" to be worth it. Others assume that their assets will simply pass to their spouse, or maybe to their child or children equally. Others think it's something you do as you get older. In reality, everyone, especially those with young children, need to plan for a time they can't make decisions for themselves. Who makes major medical decisions in case of incapacity? Who takes the kids? What happens to everyone while this gets sorted out? Should a spouse, parent, or child, to have to go to court to answer these questions, paying thousands in legal fees while leaving everythign in limbo until a judge makes a decision?  
+
+An early investment in a comprehensive estate plan solves these issues early, removing confusion, and freeing loved ones from having to make impossible decisions. 
 
 ---
 
@@ -31,7 +39,6 @@ Includes:
 - Financial Power of Attorney
 - Advanced Directive (also known as a living will)
 - Heath Care Power of Attorney
-- Basic planning for future decision-making
 
 ---
 
@@ -90,7 +97,7 @@ We help complete the execution process and provide guidance on the important ste
 Estate planning can benefit people at every stage of life. We work with:
 
 - Young families planning for the future
-- Established professionals protecting their assets
+- Established professionals protecting the career and assets they've grown over time
 - Business owners planning for continuity
 - Individuals preparing for potential incapacity or long-term care needs
 - Families seeking to simplify the transfer of assets and avoid unnecessary probate
@@ -101,7 +108,7 @@ Estate planning can benefit people at every stage of life. We work with:
 
 Your estate plan should reflect your values, protect your loved ones, and provide confidence that your wishes will be carried out.
 
-At **Walchesky Law**, we take the time to understand what matters most to you and create a plan built around your family's future.
+At **Walchesky Law**, we take the time to understand what matters most to you and create a plan built around your family's future. The end result is never a set of documents the client fails to understand. Our end result is peace of mind. 
 
 ---
 
@@ -113,6 +120,6 @@ Contact **Walchesky Law** to discuss your goals and learn how we can help protec
 
 <div class="text-center mt-4">
   <a class="btn btn-primary btn-lg" href="/contact/">
-    Schedule a Consultation
+    Schedule a 15-minute Discovery Call
   </a>
 </div>

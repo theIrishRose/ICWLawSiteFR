@@ -18,7 +18,7 @@ With more than **20 years of courtroom experience**, Ian Walchesky understands t
 
 ---
 
-## A Defense Strategy Built Around Your Case
+## A Defense Built Around Your Case
 
 No two criminal cases are exactly alike. The right approach depends on the facts, the evidence, the law, and your goals.
 
@@ -59,6 +59,6 @@ Contact **Walchesky Law** to discuss your case and learn what options may be ava
 
 <div class="text-center mt-4">
   <a class="btn btn-primary btn-lg" href="/contact/">
-    Schedule a Consultation
+    Schedule a 15-Minute Discovery Call
   </a>
 </div>

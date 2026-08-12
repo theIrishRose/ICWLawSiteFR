@@ -10,7 +10,7 @@ permalink           : "/practice-areas/appeals/"
 
 ## When the Trial Ends, the Legal Process May Not Be Over.
 
-A trial court decision is not always the final word. When serious legal errors affect the outcome of a case, an appeal or, in the context of a criminal convictoin, a post-conviction proceeding may provide an opportunity to seek review and relief.
+A trial court decision is not always the final word. When serious legal errors affect the outcome of a case, an appeal or, in the context of a criminal conviction, a post-conviction proceeding may provide an opportunity to seek review and relief.
 
 At **Walchesky Law**, we provide experienced appellate representation built on careful legal analysis, persuasive writing, and strategic advocacy. With more than **20 years of experience in state and federal courts**, including service as a law clerk to the **Pennsylvania Supreme Court**, Ian Walchesky brings a unique perspective to appellate litigation.
 
@@ -18,7 +18,7 @@ At **Walchesky Law**, we provide experienced appellate representation built on c
 
 ## Appeals Require a Different Kind of Advocacy
 
-An appeal is not a second trial. When cases are appealed, the Court of Appeals does not give litigants a "do-over." Instead, appellate courts review whether significant legal errors occurred and whether those errors affected the outcome. Not every error results in a successful decision in the appellate courts. Ian's appellate experience and reasoned judgment can help identify the key appellate issues and focus the appellate court's attention to the most pertinent issues.
+An appeal is not a second trial. When cases are appealed, the Court of Appeals does not give litigants a "do-over." No evidence is not introduced. Instead, appellate courts review whether significant legal errors occurred and whether those errors affected the outcome. Not every error results in a successful decision in the appellate courts. Ian's appellate experience and reasoned judgment can help identify the key appellate issues and focus the appellate court's attention to the most pertinent issues.
 
 Successful appellate advocacy requires:
 
@@ -29,7 +29,7 @@ Successful appellate advocacy requires:
 - Presenting focused and compelling legal analysis
 - Educating the appellate court on the background of the case.
 
-The strongest appeals are often built around a few important issues—not every possible argument. Careful judgment and strategic focus matter.
+The strongest appeals are often built around a few important issues. Appeals that raise more than three key issues often lose their persuasiveness and cause courts to look more skeptically at the argumentse being made. Careful judgment and strategic focus matter.
 
 ---
 
@@ -41,9 +41,6 @@ Walchesky Law provides appellate representation and consultation involving:
 - Civil and family law appeals
 - Post-conviction relief proceedings
 - Sentencing challenges
-- Constitutional issues
-- Procedural errors
-- Preservation-of-error analysis
 - Discretionary review petitions
 - Appellate consultation for trial counsel
 
@@ -82,6 +79,6 @@ Whether you are considering a direct appeal, seeking post-conviction relief, or 
 
 <div class="text-center mt-4">
   <a class="btn btn-primary btn-lg" href="/contact/">
-    Schedule a Consultation
+    Schedule a 15-Minute Discovery Call
   </a>
 </div>

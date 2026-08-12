@@ -10,15 +10,34 @@ header:
 permalink: /index.html
 homepage: true
 ---
-When you're facing criminal charges, a traffic citation, or a legal issue that could affect your future, having experienced counsel matters. Walchesky Law provides strategic representation with straightforward advice and personal attention from start to finish.
+Maybe you or a loved one are facing criminal charges, a traffic citation, or a legal issue that could affect your future. Maybe you've realized it's time to make sure your affairs are handled the way you want in the event of a tragedy. Having experienced counsel matters. Walchesky Law provides strategic representation with straightforward advice and personal attention from start to finish.
 
-Serving clients across the Charlotte Metro Area, Lake Norman, and the Piedmont, Walchesky Law provides practical, honest legal guidance for people facing traffic charges, criminal matters, estate planning questions, and appellate issues.
+Serving clients across North Carolina, particularly in the Charlotte Metro Area and Lake Norman, Walchesky Law provides practical, honest legal guidance for people facing traffic charges, criminal matters, estate planning questions, and appellate issues.
 
 With more than 20 years of courtroom and boutique firm experience, Ian Walchesky helps clients make informed decisions with clear advice, direct attorney access, and a steady hand through difficult legal matters.
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/contact/">Schedule a Consultation</a>
 
 ## Practice Areas
+
+<div class="table">   
+<div class="row">
+  <div class="large-3 columns">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/favicon-32x32.png">
+  </div>
+  <div class="large-3 columns">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/favicon-32x32.png">
+  </div>
+  <div class="large-3 columns">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/favicon-32x32.png">
+  </div>
+  <div class="large-3 columns">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/img/favicon-32x32.png">
+  </div>
+</div>
+</div>
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/icon_appeal.png" style="width:25%; height:auto;">
 
 - [Traffic Law]({{ site.url }}{{ site.baseurl }}/practice-areas/traffic-law/)
 - [Criminal Defense]({{ site.url }}{{ site.baseurl }}/practice-areas/criminal-defense/)
@@ -34,7 +53,7 @@ You receive seasoned legal judgment without the bureaucracy of a large firm.
 You work directly with your attorney — not passed off to staff.
 
 ### Clear Fees, No Surprises
-Flat-fee pricing for many services so you can make confident decisions with certainty about costs.
+Flat-fee pricing for many services, so you can make confident decisions with certainty about costs.
 
 ### Respect for Your Time
 Appointments are scheduled. Calls are returned promptly. Expectations are clear.
@@ -43,7 +62,7 @@ Appointments are scheduled. Calls are returned promptly. Expectations are clear.
 Every legal problem has a cost. Ian will never sell you legal services you do not need.
 
 ### Commitment to Honesty
-Some lawyers tell their clients what they want to hear. Ian believes in telling clients what they need to hear.
+Some lawyers tell their clients what they want to hear. Ian believes in telling clients what they *need* to hear.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/contact/">Contact Walchesky Law</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/contact/">Schedule a 15-Minute Discovery Call</a>
 

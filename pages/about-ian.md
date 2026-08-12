@@ -10,7 +10,7 @@ header:
 permalink           : "/about-ian/"
 ---
 
-With more than two decades of experience in practice, Ian Walchesky has represented individuals, businesses, government agencies, and families in matters involving traffic defense, criminal defense, estate planning, and appeals. His work is grounded in careful listening, practical strategy, and clear communication.
+With more than two decades of experience, Ian Walchesky has represented individuals, businesses, government agencies, and families in matters involving traffic defense, criminal defense, estate planning, and appeals. His work is grounded in careful listening, practical strategy, and clear communication. 
 
 ## A steady, strategic approach
 
@@ -29,10 +29,25 @@ Walchesky Law is built around a simple promise:
 
 Clients value Ian’s honesty, responsiveness, and willingness to provide straightforward advice. He does not believe in unnecessary conflict, unnecessary fees, or pressure tactics. His goal is to help clients move forward with clarity and confidence. 
 
-When not practicing law, Ian values family, community, and time well spent. He is committed to serving clients in a way that is respectful, dependable, and grounded in real-world judgment.
+When not practicing law, Ian values family, community, and time well spent. He is committed to serving clients in a way that is respectful, dependable, and grounded in real-world judgment. In his spare time, Ian likes to go to Carowinds and the Whitewater Center with his family, shoot clays in the Trap League at the Charlotte Rifle & Pistol Club, travel (particularly to a beach), and relaxing at home with a guitar. 
 
 ## From Ian
 
 I have practiced law in Pennsylvania and North Carolina for more than twenty years, with extensive experience in state and federal courts in both civil and criminal cases. My family has planted roots in Huntersville, and my goal is to serve our community by providing affordable, quality legal representation with no surprises, and no gimmicks. An attorney/client relationship is fundamentally based on trust and confidence, and I want to earn both from my clients. In that regard, clients can always trust me to be honest and straightforward. I will never recommend a course of action in any matter that is not 100% in my client's best interests.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/contact/">Schedule a Consultation</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/contact/">Schedule a 15-Minute Discovery Call</a>
+
+Put this in a sidebar:
+Image of me
+
+Ian C. Walchesky
+Education
+University of Pittsburgh School of Law
+ - JD, *cum laude* 2005
+   - Editor in Chief, *Journal of Law and Commerce*, 2024-25
+   - Dean's Scholarship
+
+ Dickinson College
+ - BA, *cum laude* 2002
+   - Benjamin Rush Scholarship
+

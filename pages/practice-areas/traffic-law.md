@@ -8,6 +8,7 @@ header:
 permalink           : "/practice-areas/traffic-law/"
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/icon_traffic.png" style="width:25%; height:auto;">
 
 ## Protect Your Record. Protect Your License.
 
@@ -68,7 +69,7 @@ Contact **Walchesky Law** to discuss your options and learn how we can help prot
 
 <div class="text-center mt-4">
   <a class="btn btn-primary btn-lg" href="/contact/">
-    Schedule a Consultation
+    Schedule a 15-Minute Discovery Call
   </a>
 </div>
 
