@@ -1,17 +1,14 @@
-- menu_name: "Services"
-
-- name: "Contact"
+- menu_name: "Contact Me"
   url: "/contact/"
-  title: "Contact"
+  
+- name: "908-385-7635"
+  url: "/contact/"
+  title: "Phone: 908-385-7635"
 
-- name: "RSS"
-  url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+- name: "Ian@Walcheskylaw.com"
+  url: "/contact/"
+  title: "Email:Ian@Walcheskylaw.com"
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
-
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+- name: "Huntersville, NC"
+  url: "/contact/"
+  title: "Address:Walchesky Law PLLC 9541 Julian Clark Ave Suite 301-C Huntersville, NC 28078"
