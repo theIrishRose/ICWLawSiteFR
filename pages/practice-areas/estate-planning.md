@@ -4,7 +4,7 @@ show_meta           : false
 title               : "Estate Planning"
 teaser              : "Helping individuals and families create thoughtful estate plans that protect assets and provide clarity for the future."
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+    image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/estate-planning/"
 ---
 ## Protect What Matters Most

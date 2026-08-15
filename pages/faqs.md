@@ -4,7 +4,7 @@ layout: page
 show_meta: false
 title: "Frequently Asked Questions"
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+    image_fullwidth  : "WalcheskyLawHeader2.jpg"
 permalink: /faqs/
 ---
 ## Answers to Common Questions About Working With Walchesky Law

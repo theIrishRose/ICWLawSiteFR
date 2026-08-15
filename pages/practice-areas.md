@@ -5,7 +5,7 @@ title               : "Practice Areas"
 subheadline         : "Walchesky Law"
 teaser              : "Experienced counsel for traffic matters, criminal defense, appeals, and estate planning throughout North Carolina."
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+    image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/"
 ---
 

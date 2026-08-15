@@ -6,7 +6,7 @@ subheadline         : "Ian Walchesky"
 teaser              : "Steady, strategic guidance for clients facing difficult legal decisions"
 header:
    image_fullwidth  : "WalcheskyLawHeader.jpg"
-   title: ""
+   title: "Walchesky Law PLLC"
 permalink           : "/about-ian/"
 ---
 

@@ -4,7 +4,7 @@ show_meta           : false
 title               : "Appeals & Post-Conviction Relief"
 teaser              : "Providing appellate representation and post-conviction advocacy for clients seeking review of legal errors and trial outcomes."
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+    image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/appeals/"
 ---
 

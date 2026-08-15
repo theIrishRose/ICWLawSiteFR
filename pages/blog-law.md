@@ -3,8 +3,6 @@ layout: page
 show_meta: false
 title: "Walcheksky Law Blog"
 subheadline: "Thoughts and Information from Walchesky Law"
-header:
-   image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/law/"
 ---
 <ul>

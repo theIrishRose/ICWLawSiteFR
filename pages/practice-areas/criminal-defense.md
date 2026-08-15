@@ -4,7 +4,7 @@ show_meta           : false
 title               : "Criminal Defense"
 teaser              : "Defending clients against criminal charges with practical strategy, honest guidance, and focused advocacy."
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+    image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/criminal-defense/"
 ---
 

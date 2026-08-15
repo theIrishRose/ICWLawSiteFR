@@ -4,7 +4,7 @@ show_meta           : false
 title               : "Traffic Law"
 teaser              : "Walchesky Law provides traffic defense representation throughout the Charlotte metro area for speeding tickets, reckless driving charges, license issues, and other traffic violations."
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+    image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/traffic-law/"
 ---
 
