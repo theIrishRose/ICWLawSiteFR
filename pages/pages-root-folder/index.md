@@ -6,10 +6,10 @@ subheadline         : ""
 teaser              : "Strategic Counsel. Steady Guidance. Real Protection."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
-    title: ""
 permalink: /index.html
 homepage: true
 ---
+
 Maybe you or a loved one are facing criminal charges, a traffic citation, or a legal issue that could affect your future. Maybe you've realized it's time to make sure your affairs are handled the way you want in the event of a tragedy. Having experienced counsel matters. Walchesky Law provides strategic representation with straightforward advice and personal attention from start to finish.
 
 Serving clients across North Carolina, particularly in the Charlotte Metro Area and Lake Norman, Walchesky Law provides practical, honest legal guidance for people facing traffic charges, criminal matters, estate planning questions, and appellate issues.
