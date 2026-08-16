@@ -93,25 +93,30 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
   max-width: 100% !important;
 }
 
+/* The <a> itself stays simple so Markdown doesn't break it */
 .wl-practice-card {
+  display: block;
+  text-decoration: none;
+  color: var(--wl-text);
+  height: 100%;
+  min-width: 0;
+  width: 100%;
+}
+
+/* All visual styling + flex layout lives on the inner wrapper */
+.wl-practice-card__inner {
   display: flex;
   flex-direction: column;
+  height: 100%;
   padding: 28px 24px 24px;
   background: #fff;
   border: 1px solid var(--wl-border);
   box-shadow: var(--wl-shadow);
-  color: var(--wl-text);
-  text-decoration: none;
-  transition: transform .18s ease, box-shadow .18s ease;
-  min-width: 0;
-  width: 100%;
   box-sizing: border-box;
-  height: 100%;          /* makes all cards equal height in the grid */
+  transition: transform .18s ease, box-shadow .18s ease;
 }
 
-.wl-practice-card:hover {
-  color: var(--wl-text);
-  text-decoration: none;
+.wl-practice-card:hover .wl-practice-card__inner {
   transform: translateY(-4px);
   box-shadow: 0 18px 38px rgba(14, 43, 61, .13);
 }
@@ -142,7 +147,7 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
   -webkit-hyphens: none;
 }
 
-.wl-practice-card > span {
+.wl-practice-card span {
   margin-top: auto;
   color: var(--wl-blue);
   font-family: Lato, Arial, sans-serif;
@@ -165,7 +170,7 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
     gap: 16px;
   }
 
-  .wl-practice-card {
+  .wl-practice-card__inner {
     padding: 22px 20px 20px;
   }
 
@@ -179,7 +184,7 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
     font-size: 1.25rem;
   }
 
-  .wl-practice-card:hover {
+  .wl-practice-card:hover .wl-practice-card__inner {
     transform: none;
     box-shadow: var(--wl-shadow);
   }
@@ -190,12 +195,56 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
   .wl-practice-grid {
     gap: 14px;
   }
-  .wl-practice-card {
+  .wl-practice-card__inner {
     padding: 20px 18px 18px;
   }
 }
 
-/* ===== Values + other mobile adjustments ===== */
+/* ===== Values grid ===== */
+.wl-values-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 28px 40px;
+}
+.wl-value {
+  border-top: 2px solid var(--wl-gold);
+  padding-top: 18px;
+}
+.wl-value h3 {
+  color: var(--wl-navy);
+  font-size: 1.25rem;
+  margin: 0 0 8px;
+}
+.wl-value p {
+  margin: 0;
+  font-size: .98rem;
+}
+
+.wl-about-home { max-width: 850px; }
+.wl-text-link { font-family: Lato, Arial, sans-serif; font-weight: 700; text-decoration: none; }
+.wl-cta { max-width: 780px; text-align: center; }
+.wl-cta .wl-button { margin-top: 12px; }
+
+#footer-content { margin-top: 0; background: var(--wl-deep); color: #fff; }
+#footer { background: var(--wl-deep); padding: 56px 0 30px; }
+#footer h5, #footer p, #footer li, #footer a { color: #fff; }
+#footer a:hover { color: #d7c28c; }
+#subfooter { background: #092231; }
+#subfooter .credits, #subfooter .credits p { color: rgba(255,255,255,.72); }
+
+.wl-nav-brand { float: left; padding: 0 18px 0 0; line-height: 64px; }
+.wl-nav-brand a { color: #fff; font-family: Lato, Arial, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; }
+#navigation .top-bar-section .wl-nav-cta > a { color: #172c39; background: var(--wl-gold); }
+#navigation .top-bar-section .wl-nav-cta > a:hover { color: #172c39; background: #c8ae72; }
+.wl-content-cta { margin: 32px 0 10px; }
+.wl-blog-list { display: grid; gap: 24px; }
+.wl-blog-card { padding: 26px; border: 1px solid var(--wl-border); background: #fff; box-shadow: var(--wl-shadow); }
+.wl-blog-card__date { color: var(--wl-muted); font-family: Lato, Arial, sans-serif; font-size: .82rem !important; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+.wl-blog-card h2 { margin: 0 0 10px; font-size: 1.7rem; }
+.wl-blog-card h2 a { color: var(--wl-navy); text-decoration: none; }
+.wl-blog-card p { margin-bottom: 12px; }
+
+/* ===== Responsive adjustments ===== */
 @media only screen and (max-width: 900px) {
   .wl-values-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -247,62 +296,5 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
   body:not(.frontpage) > .row,
   body:not(.frontpage) .row.t30 {
     width: calc(100% - 28px);
-  }
-}
-
-.wl-values-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px 40px; }
-.wl-value { border-top: 2px solid var(--wl-gold); padding-top: 18px; }
-.wl-value h3 { color: var(--wl-navy); font-size: 1.25rem; margin: 0 0 8px; }
-.wl-value p { margin: 0; font-size: .98rem; }
-.wl-about-home { max-width: 850px; }
-.wl-text-link { font-family: Lato, Arial, sans-serif; font-weight: 700; text-decoration: none; }
-.wl-cta { max-width: 780px; text-align: center; }
-.wl-cta .wl-button { margin-top: 12px; }
-
-#footer-content { margin-top: 0; background: var(--wl-deep); color: #fff; }
-#footer { background: var(--wl-deep); padding: 56px 0 30px; }
-#footer h5, #footer p, #footer li, #footer a { color: #fff; }
-#footer a:hover { color: #d7c28c; }
-#subfooter { background: #092231; }
-#subfooter .credits, #subfooter .credits p { color: rgba(255,255,255,.72); }
-
-
-.wl-nav-brand { float: left; padding: 0 18px 0 0; line-height: 64px; }
-.wl-nav-brand a { color: #fff; font-family: Lato, Arial, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; }
-#navigation .top-bar-section .wl-nav-cta > a { color: #172c39; background: var(--wl-gold); }
-#navigation .top-bar-section .wl-nav-cta > a:hover { color: #172c39; background: #c8ae72; }
-.wl-content-cta { margin: 32px 0 10px; }
-.wl-blog-list { display: grid; gap: 24px; }
-.wl-blog-card { padding: 26px; border: 1px solid var(--wl-border); background: #fff; box-shadow: var(--wl-shadow); }
-.wl-blog-card__date { color: var(--wl-muted); font-family: Lato, Arial, sans-serif; font-size: .82rem !important; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
-.wl-blog-card h2 { margin: 0 0 10px; font-size: 1.7rem; }
-.wl-blog-card h2 a { color: var(--wl-navy); text-decoration: none; }
-.wl-blog-card p { margin-bottom: 12px; }
-
-/* Force correct practice card layout */
-.wl-practice-grid {
-  display: grid !important;
-  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
-  gap: 22px !important;
-}
-
-.wl-practice-card {
-  display: flex !important;
-  flex-direction: column !important;
-  height: 100% !important;
-  min-width: 0 !important;
-  width: 100% !important;
-  box-sizing: border-box !important;
-}
-
-@media only screen and (max-width: 900px) {
-  .wl-practice-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
-  }
-}
-
-@media only screen and (max-width: 640px) {
-  .wl-practice-grid {
-    grid-template-columns: 1fr !important;
   }
 }
