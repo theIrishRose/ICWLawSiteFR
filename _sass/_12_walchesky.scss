@@ -37,6 +37,9 @@ a:hover { color: var(--wl-blue); }
 .wl-section--about { background: var(--wl-sky); }
 .wl-section--cta { background: var(--wl-deep); color: #fff; }
 .wl-section--cta h2, .wl-section--cta p { color: #fff; }
+.wl-section.wl-section--cta h2 {
+  color: #fff !important;
+}
 .wl-section-heading { max-width: 760px; margin-bottom: 38px; }
 .wl-eyebrow { margin: 0 0 10px; color: var(--wl-gold); font-family: Lato, Arial, sans-serif; font-size: .82rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; }
 .wl-section h2 { color: var(--wl-navy); font-size: clamp(2rem, 4vw, 2.8rem); line-height: 1.15; margin: 0 0 20px; }
@@ -398,5 +401,61 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
 
   #footer .footer-desc {
     max-width: none;
+  }
+}
+/* Navigation logo */
+.wl-nav-logo {
+  display: flex;
+  align-items: center;
+  height: 64px;          /* matches your top-bar height */
+  padding: 0 12px 0 0;
+}
+
+.wl-nav-logo img {
+  height: 42px;          /* adjust to taste */
+  width: auto;
+  display: block;
+}
+
+/* Optional: hide the old text title on large screens if it still appears */
+#navigation .top-bar .name h1 {
+  display: none;
+}
+/* Hero watermark */
+.wl-home-hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.wl-hero-watermark {
+  position: absolute;
+  right: 5%;
+  top: 50%;
+  transform: translateY(-50%);
+  width: min(420px, 38vw);
+  height: auto;
+  opacity: 0.12;          /* adjust between 0.05 – 0.12 */
+  pointer-events: none;
+  user-select: none;
+  z-index: 1;
+}
+
+.wl-home-hero__inner {
+  position: relative;
+  z-index: 2;
+}
+
+/* Hide or reduce on mobile so it doesn’t compete with text */
+@media only screen and (max-width: 900px) {
+  .wl-hero-watermark {
+    width: min(300px, 50vw);
+    opacity: 0.06;
+    right: -5%;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .wl-hero-watermark {
+    display: none;        /* usually best to hide on small phones */
   }
 }
