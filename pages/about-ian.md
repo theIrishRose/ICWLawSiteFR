@@ -7,7 +7,7 @@ permalink           : "/about-ian/"
 ---
 
 <div class="wl-about-intro">
-  <img src="{{ site.baseurl }}/images/ian-walchesky.jpg" alt="Ian C. Walchesky" class="wl-about-photo">
+  <img src="{{ site.baseurl }}/images/ian-walchesky.jpeg" alt="Ian C. Walchesky" class="wl-about-photo">
 
   <div class="wl-about-intro-text">
     <h1>About Ian</h1>
