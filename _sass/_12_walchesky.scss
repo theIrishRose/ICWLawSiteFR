@@ -279,3 +279,30 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
 .wl-blog-card h2 a { color: var(--wl-navy); text-decoration: none; }
 .wl-blog-card p { margin-bottom: 12px; }
 
+/* Force correct practice card layout */
+.wl-practice-grid {
+  display: grid !important;
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  gap: 22px !important;
+}
+
+.wl-practice-card {
+  display: flex !important;
+  flex-direction: column !important;
+  height: 100% !important;
+  min-width: 0 !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+@media only screen and (max-width: 900px) {
+  .wl-practice-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .wl-practice-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
