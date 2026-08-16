@@ -82,14 +82,15 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
   width: 100%;
   box-sizing: border-box;
 }
-/* Prevent Foundation rows from breaking the practice grid */
+
+/* Keep Foundation from interfering */
 .row .wl-practice-grid,
 .columns .wl-practice-grid,
 .wl-container .wl-practice-grid {
-  margin-left: 0;
-  margin-right: 0;
-  width: 100%;
-  max-width: 100%;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
 }
 
 .wl-practice-card {
@@ -102,12 +103,10 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
   color: var(--wl-text);
   text-decoration: none;
   transition: transform .18s ease, box-shadow .18s ease;
-  
-  /* Critical fixes */
-  min-width: 0;          /* allows the grid item to shrink properly */
+  min-width: 0;
   width: 100%;
   box-sizing: border-box;
-  overflow: hidden;      /* safety */
+  height: 100%;          /* makes all cards equal height in the grid */
 }
 
 .wl-practice-card:hover {
@@ -137,8 +136,6 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
   font-size: .98rem;
   line-height: 1.6;
   flex-grow: 1;
-
-  /* Stop the vertical word stacking */
   overflow-wrap: break-word;
   word-break: normal;
   hyphens: none;
@@ -164,14 +161,12 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
 /* ===== Mobile / iPhone ===== */
 @media only screen and (max-width: 640px) {
   .wl-practice-grid {
-    grid-template-columns: 1fr !important;   /* force single column */
+    grid-template-columns: 1fr;
     gap: 16px;
   }
 
   .wl-practice-card {
     padding: 22px 20px 20px;
-    min-width: 0;
-    width: 100%;
   }
 
   .wl-practice-card img {
@@ -184,24 +179,74 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
     font-size: 1.25rem;
   }
 
-  .wl-practice-card p {
-    font-size: 1rem;
-  }
-
-  /* Optional: remove the hover lift on touch devices */
   .wl-practice-card:hover {
     transform: none;
     box-shadow: var(--wl-shadow);
   }
 }
 
-/* Extra small phones */
+/* Extra-small phones */
 @media only screen and (max-width: 390px) {
   .wl-practice-grid {
     gap: 14px;
   }
   .wl-practice-card {
     padding: 20px 18px 18px;
+  }
+}
+
+/* ===== Values + other mobile adjustments ===== */
+@media only screen and (max-width: 900px) {
+  .wl-values-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .wl-home-hero {
+    min-height: 560px;
+    background-position: 62% center;
+  }
+  .wl-nav-brand {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .wl-container,
+  .wl-home-hero__inner {
+    width: min(100% - 28px, 1160px);
+  }
+  .wl-section {
+    padding: 54px 0;
+  }
+  .wl-home-hero {
+    min-height: 620px;
+    background-position: 68% center;
+  }
+  .wl-home-hero__content {
+    padding: 54px 0;
+  }
+  .wl-home-hero h1 {
+    font-size: clamp(2.6rem, 13vw, 4rem);
+  }
+  .wl-home-hero__lead {
+    font-size: 1.08rem;
+  }
+  .wl-button-group {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .wl-button {
+    text-align: center;
+  }
+  .wl-page-hero {
+    min-height: 250px;
+    padding: 48px 0;
+  }
+  .wl-values-grid {
+    grid-template-columns: 1fr;
+  }
+  body:not(.frontpage) > .row,
+  body:not(.frontpage) .row.t30 {
+    width: calc(100% - 28px);
   }
 }
 
@@ -221,25 +266,6 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
 #subfooter { background: #092231; }
 #subfooter .credits, #subfooter .credits p { color: rgba(255,255,255,.72); }
 
-@media only screen and (max-width: 900px) {
-  .wl-practice-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .wl-values-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .wl-home-hero { min-height: 560px; background-position: 62% center; }
-}
-
-@media only screen and (max-width: 640px) {
-  .wl-container, .wl-home-hero__inner { width: min(100% - 28px, 1160px); }
-  .wl-section { padding: 54px 0; }
-  .wl-home-hero { min-height: 620px; background-position: 68% center; }
-  .wl-home-hero__content { padding: 54px 0; }
-  .wl-home-hero h1 { font-size: clamp(2.6rem, 13vw, 4rem); }
-  .wl-home-hero__lead { font-size: 1.08rem; }
-  .wl-button-group { align-items: stretch; flex-direction: column; }
-  .wl-button { text-align: center; }
-  .wl-page-hero { min-height: 250px; padding: 48px 0; }
-  .wl-practice-grid, .wl-values-grid { grid-template-columns: 1fr; }
-  body:not(.frontpage) > .row, body:not(.frontpage) .row.t30 { width: calc(100% - 28px); }
-}
 
 .wl-nav-brand { float: left; padding: 0 18px 0 0; line-height: 64px; }
 .wl-nav-brand a { color: #fff; font-family: Lato, Arial, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; }
@@ -252,8 +278,4 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
 .wl-blog-card h2 { margin: 0 0 10px; font-size: 1.7rem; }
 .wl-blog-card h2 a { color: var(--wl-navy); text-decoration: none; }
 .wl-blog-card p { margin-bottom: 12px; }
-
-@media only screen and (max-width: 900px) {
-  .wl-nav-brand { display: none; }
-}
 
