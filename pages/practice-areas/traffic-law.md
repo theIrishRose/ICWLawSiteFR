@@ -27,6 +27,7 @@ We represent clients facing a wide range of traffic-related charges, including:
 - Driving while license revoked
 - Expired registration and/or insurance
 - Moving violations
+- Driving while intoxicated (DWI)
 - Other traffic-related offenses
 
 Every case is different. We evaluate the circumstances surrounding your citation, explain your options, and help you understand the best path forward.

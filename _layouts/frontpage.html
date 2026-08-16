@@ -2,110 +2,99 @@
 layout: default
 format: frontpage
 ---
-<div id="header-home">
-    <div class="row">
-        <div class="small-12 columns">
-        </div><!-- /.medium-4.columns -->
-    </div><!-- /.row -->
-</div><!-- /#header-home -->
 
+<section class="wl-home-hero" style="background-image: linear-gradient(90deg, rgba(14,43,61,.82) 0%, rgba(14,43,61,.58) 46%, rgba(14,43,61,.12) 100%), url('{{ site.baseurl }}/images/WalcheskyLawHeader1.jpg');">
+  <div class="wl-container wl-home-hero__inner">
+    <div class="wl-home-hero__content">
+      <p class="wl-eyebrow">Walchesky Law PLLC</p>
+      <h1>Strategic Counsel.<br>Steady Guidance.<br><span>Real Protection.</span></h1>
+      <p class="wl-home-hero__lead">Experienced legal counsel for clients facing difficult decisions in North Carolina.</p>
+      <div class="wl-button-group">
+        <a class="wl-button wl-button--primary" href="{{ site.baseurl }}/contact/">Schedule a 15-Minute Discovery Call</a>
+        <a class="wl-button wl-button--secondary" href="{{ site.baseurl }}/practice-areas/">Explore Practice Areas</a>
+      </div>
+    </div>
+  </div>
+</section>
 
-{% comment %}
-*
-* First check, if widget is empty or not by checking if there is a title
-*
-{% endcomment %}
-<div class="row t60">
-	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
-		{% include _frontpage-widget.html widget=page.widget1 %}
-	{% endif %}
+<section class="wl-section wl-section--intro">
+  <div class="wl-container wl-narrow">
+    <p class="wl-eyebrow">Practical. Personal. Experienced.</p>
+    <h2>Legal guidance grounded in real-world judgment.</h2>
+    <p>Maybe you or a loved one are facing criminal charges, a traffic citation, or a legal issue that could affect your future. Maybe you've realized it's time to make sure your affairs are handled the way you want in the event of a tragedy. Having experienced counsel matters.</p>
+    <p>Walchesky Law provides strategic representation with straightforward advice and personal attention from start to finish. Serving clients across North Carolina, particularly in the Charlotte Metro Area and Lake Norman, the firm focuses on traffic matters, criminal defense, estate planning, and appeals.</p>
+  </div>
+</section>
 
-	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
-		{% include _frontpage-widget.html widget=page.widget2 %}
-	{% endif %}
+<section class="wl-section wl-section--muted">
+  <div class="wl-container">
+    <div class="wl-section-heading">
+      <p class="wl-eyebrow">Practice Areas</p>
+      <h2>Focused counsel for the matters that matter most.</h2>
+    </div>
 
-	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
-	{% endif %}
-</div><!-- /.row -->
+    <div class="wl-practice-grid">
+      <a class="wl-practice-card" href="{{ site.baseurl }}/practice-areas/traffic-law/">
+        <img src="{{ site.baseurl }}/images/icon_traffic.png" alt="" loading="lazy">
+        <h3>Traffic Law</h3>
+        <p>Protect your driving record, understand your options, and address traffic charges with a clear strategy.</p>
+        <span>Learn More <span aria-hidden="true">→</span></span>
+      </a>
+      <a class="wl-practice-card" href="{{ site.baseurl }}/practice-areas/criminal-defense/">
+        <img src="{{ site.baseurl }}/images/icon_criminal_defense.png" alt="" loading="lazy">
+        <h3>Criminal Defense</h3>
+        <p>Experienced representation from the earliest stages of a case through negotiation, litigation, or trial.</p>
+        <span>Learn More <span aria-hidden="true">→</span></span>
+      </a>
+      <a class="wl-practice-card" href="{{ site.baseurl }}/practice-areas/estate-planning/">
+        <img src="{{ site.baseurl }}/images/icon_estate_planning.png" alt="" loading="lazy">
+        <h3>Estate Planning</h3>
+        <p>Thoughtful wills, powers of attorney, healthcare directives, and other planning tools for your family.</p>
+        <span>Learn More <span aria-hidden="true">→</span></span>
+      </a>
+      <a class="wl-practice-card" href="{{ site.baseurl }}/practice-areas/appeals/">
+        <img src="{{ site.baseurl }}/images/icon_appeal.png" alt="" loading="lazy">
+        <h3>Appeals</h3>
+        <p>Careful review, persuasive legal argument, and disciplined advocacy when a trial is not the end of the matter.</p>
+        <span>Learn More <span aria-hidden="true">→</span></span>
+      </a>
+    </div>
+  </div>
+</section>
 
+<section class="wl-section">
+  <div class="wl-container">
+    <div class="wl-section-heading">
+      <p class="wl-eyebrow">Why Clients Choose Walchesky Law</p>
+      <h2>Experienced counsel without unnecessary complexity.</h2>
+    </div>
+    <div class="wl-values-grid">
+      <div class="wl-value"><h3>Experience Without Intimidation</h3><p>Seasoned legal judgment without the bureaucracy of a large firm.</p></div>
+      <div class="wl-value"><h3>Direct Attorney Access</h3><p>You work directly with the attorney handling your matter—not passed off to staff.</p></div>
+      <div class="wl-value"><h3>Clear Fees, No Surprises</h3><p>Flat-fee pricing is available for many services, providing clarity from the beginning.</p></div>
+      <div class="wl-value"><h3>Respect for Your Time</h3><p>Appointments are required, calls are returned promptly, and expectations are clear.</p></div>
+      <div class="wl-value"><h3>Respect for Your Wallet</h3><p>Ian will not sell you legal services you do not need.</p></div>
+      <div class="wl-value"><h3>Commitment to Honesty</h3><p>You deserve advice about what you need to hear—not simply what you want to hear.</p></div>
+    </div>
+  </div>
+</section>
 
+<section class="wl-section wl-section--about">
+  <div class="wl-container wl-about-home">
+    <div>
+      <p class="wl-eyebrow">About Ian Walchesky</p>
+      <h2>More than 20 years of courtroom and boutique-firm experience.</h2>
+      <p>Ian Walchesky has represented individuals, businesses, government agencies, and families in state and federal courts. His approach is straightforward: listen carefully, explain the options, and help clients make informed decisions.</p>
+      <a class="wl-text-link" href="{{ site.baseurl }}/about-ian/">Learn more about Ian <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+</section>
 
-{% comment %}
-*
-* First check, if there is a call for action-button
-*
-{% endcomment %}
-{% if page.callforaction.url contains 'http' %}
-{% assign url = '' %}
-{% else %}
-{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
-{% endif %}
-{% if page.callforaction %}
-    <div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-{% endif %}
-
-
-
-{% comment %}
-*
-* First check, if there are any posts at all
-*
-{% endcomment %}
-
-{% unless site.posts == empty %}
-    <div class="row t30 b20 homepage">
-        <div class="small-12 columns">
-            {% for post in site.posts limit:1 %}
-            {% if post.image.homepage %}
-            <p>
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
-            </p>
-
-            {% if post.image.caption_url and post.image.caption %}
-            <p class="text-right caption">
-                <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
-            </p>
-            {% endif %}
-            {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
-            {% endif %}
-            {% endfor %}
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-
-
-    <div class="row">
-        <div class="medium-6 columns">
-            {% for post in site.posts limit:1 %}
-            {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
-            <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-            <p>
-                {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
-            </p>
-            {% endfor %}
-        </div><!-- /.medium-5.columns -->
-
-
-        <div class="medium-6 columns">
-            <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
-        </div><!-- /.medium-7.columns -->
-    </div><!-- /.row -->
-{% endunless %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
+<section class="wl-section wl-section--cta">
+  <div class="wl-container wl-cta">
+    <p class="wl-eyebrow">Have a legal question?</p>
+    <h2>Let's start with a conversation.</h2>
+    <p>A 15-minute Discovery Call is an opportunity to briefly discuss your situation, determine whether Walchesky Law may be able to help, and identify the appropriate next step.</p>
+    <a class="wl-button wl-button--primary" href="{{ site.baseurl }}/contact/">Schedule Your Discovery Call</a>
+  </div>
+</section>

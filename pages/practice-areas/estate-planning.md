@@ -19,6 +19,8 @@ Whether you need a straightforward will or a comprehensive trust-based plan, we 
 
 ## Planning For Every Stage of Life
 
+---
+
 Many people put off estate planning, thinking that they don't need it. Some do this because they think they don't have enough of an "estate" to be worth it. Others assume that their assets will simply pass to their spouse, or maybe to their child or children equally. Others think it's something you do as you get older. In reality, everyone, especially those with young children, need to plan for a time they can't make decisions for themselves. Who makes major medical decisions in case of incapacity? Who takes the kids? What happens to everyone while this gets sorted out? Should a spouse, parent, or child, to have to go to court to answer these questions, paying thousands in legal fees while leaving everythign in limbo until a judge makes a decision?  
 
 An early investment in a comprehensive estate plan solves these issues early, removing confusion, and freeing loved ones from having to make impossible decisions. 
@@ -27,9 +29,15 @@ An early investment in a comprehensive estate plan solves these issues early, re
 
 ## Estate Planning Solutions Designed Around Your Goals
 
+---
+
 Every family has different needs. We offer flexible estate planning options designed to provide the right level of protection and planning for your situation.
 
+---
+
 ### Essential Estate Plan
+
+---
 
 A foundation for protecting yourself and your loved ones.
 
@@ -44,6 +52,8 @@ Includes:
 
 ### Family Protection Plan
 
+---
+
 Comprehensive planning designed for couples and families who want to protect the people who depend on them.
 
 Includes coordinated planning strategies to address:
@@ -55,7 +65,9 @@ Includes coordinated planning strategies to address:
 
 ---
 
-### Trust & Legacy Plan
+### Trust Plan
+
+---
 
 A more comprehensive approach for individuals and families seeking additional control and protection.
 
@@ -70,9 +82,13 @@ Includes:
 
 ## A Clear, Personalized Planning Process
 
+---
+
 Estate planning should not feel overwhelming. We guide you through each step with clear explanations and thoughtful advice.
 
 ### Our Process
+
+---
 
 **1. Strategy Consultation**
 
@@ -94,6 +110,8 @@ We help complete the execution process and provide guidance on the important ste
 
 ## Who We Help
 
+---
+
 Estate planning can benefit people at every stage of life. We work with:
 
 - Young families planning for the future
@@ -106,6 +124,8 @@ Estate planning can benefit people at every stage of life. We work with:
 
 ## Thoughtful Planning. Lasting Peace of Mind.
 
+---
+
 Your estate plan should reflect your values, protect your loved ones, and provide confidence that your wishes will be carried out.
 
 At **Walchesky Law**, we take the time to understand what matters most to you and create a plan built around your family's future. The end result is never a set of documents the client fails to understand. Our end result is peace of mind. 
@@ -113,6 +133,8 @@ At **Walchesky Law**, we take the time to understand what matters most to you an
 ---
 
 ## Schedule a Consultation
+
+---
 
 The best time to create an estate plan is before you need one.
 

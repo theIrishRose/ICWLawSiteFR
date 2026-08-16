@@ -1,14 +1,14 @@
 ---
 layout              : page
-show_meta           : false
+sidebar             : right
 title               : "About Ian"
 subheadline         : "Ian Walchesky"
 teaser              : "Steady, strategic guidance for clients facing difficult legal decisions"
 header:
    image_fullwidth  : "WalcheskyLawHeader.jpg"
-   title: "Walchesky Law PLLC"
 permalink           : "/about-ian/"
 ---
+
 
 With more than two decades of experience, Ian Walchesky has represented individuals, businesses, government agencies, and families in matters involving traffic defense, criminal defense, estate planning, and appeals. His work is grounded in careful listening, practical strategy, and clear communication. 
 
@@ -33,7 +33,11 @@ When not practicing law, Ian values family, community, and time well spent. He i
 
 ## From Ian
 
-I have practiced law in Pennsylvania and North Carolina for more than twenty years, with extensive experience in state and federal courts in both civil and criminal cases. My family has planted roots in Huntersville, and my goal is to serve our community by providing affordable, quality legal representation with no surprises, and no gimmicks. An attorney/client relationship is fundamentally based on trust and confidence, and I want to earn both from my clients. In that regard, clients can always trust me to be honest and straightforward. I will never recommend a course of action in any matter that is not 100% in my client's best interests.
+I have practiced law in Pennsylvania and North Carolina for more than twenty years, with extensive experience in state and federal courts in both civil and criminal cases. My family has planted roots in Huntersville, and my goal is to serve our community by providing affordable, quality legal representation with no surprises and no gimmicks. An attorney/client relationship is fundamentally based on trust and confidence, and I want to earn both from my clients. In that regard, clients can always trust me to be honest and straightforward. I will never recommend a course of action in any matter that is not 100% in my client's best interests.
+
+Hopefully, you will come to find your experience with me to be professional, yet also casual. Any time someone needs a lawyer, it's a serious situation and carries a lot of stress. However, I like to develop more meaningful relationships with my clients, encouraging true dialog rather than a stuffy "This is how it is" atmosphere. That why, although I take your matters seriously, I maintain a conversational tone and like to keep interactions relaxed.  
+
+Oh, and unless I'm actually in a courtroom, you won't catch me in a suit (despite my headshot).
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/contact/">Schedule a 15-Minute Discovery Call</a>
 

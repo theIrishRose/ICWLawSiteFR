@@ -18,7 +18,7 @@ At **Walchesky Law**, we provide experienced appellate representation built on c
 
 ## Appeals Require a Different Kind of Advocacy
 
-An appeal is not a second trial. When cases are appealed, the Court of Appeals does not give litigants a "do-over." No evidence is not introduced. Instead, appellate courts review whether significant legal errors occurred and whether those errors affected the outcome. Not every error results in a successful decision in the appellate courts. Ian's appellate experience and reasoned judgment can help identify the key appellate issues and focus the appellate court's attention to the most pertinent issues.
+An appeal is not a second trial. When cases are appealed, the Court of Appeals does not give litigants a "do-over." No new evidence is introduced. Instead, appellate courts review whether significant legal errors occurred and whether those errors affected the outcome of the proceedings in the trial court. Not every error results in a successful decision in the appellate courts. Ian's appellate experience and reasoned judgment can help identify the key appellate issues and focus the appellate court's attention to the most pertinent issues.
 
 Successful appellate advocacy requires:
 
@@ -29,7 +29,7 @@ Successful appellate advocacy requires:
 - Presenting focused and compelling legal analysis
 - Educating the appellate court on the background of the case.
 
-The strongest appeals are often built around a few important issues. Appeals that raise more than three key issues often lose their persuasiveness and cause courts to look more skeptically at the argumentse being made. Careful judgment and strategic focus matter.
+The strongest appeals are often built around a few important issues. Appeals that raise more than three key issues often lose their persuasiveness and cause courts to look more skeptically at the argumentse being made. Careful judgment and strategic focus on the best issues is what matters in appellate advocacy.
 
 ---
 
@@ -43,6 +43,7 @@ Walchesky Law provides appellate representation and consultation involving:
 - Sentencing challenges
 - Discretionary review petitions
 - Appellate consultation for trial counsel
+- Co-counsel with other attorneys for appellate work
 
 ---
 
@@ -50,7 +51,7 @@ Walchesky Law provides appellate representation and consultation involving:
 
 One of the most important services an appellate attorney can provide is an honest assessment of whether an appeal is the right path.
 
-Not every unfavorable result can be overturned. Some legal errors, while frustrating, may not provide a basis for appellate relief.
+Not every unfavorable result can be overturned. Some legal errors, even obvious ones, may not provide a basis for appellate relief if it did not change the outcome of the case.
 
 Before recommending an appeal or post-conviction proceeding, we carefully evaluate:
 

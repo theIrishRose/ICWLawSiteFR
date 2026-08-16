@@ -5,7 +5,7 @@ title               : "Practice Areas"
 subheadline         : "Walchesky Law"
 teaser              : "Experienced counsel for traffic matters, criminal defense, appeals, and estate planning throughout North Carolina."
 header:
-    image_fullwidth  : "WalcheskyLawHeader3.jpg"
+    image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/"
 ---
 
@@ -22,7 +22,7 @@ At Walchesky Law, we help clients navigate difficult legal issues with clear adv
 
 ## Traffic Law
 
-Even a routine traffic citation can lead to lasting consequences for your insurance, driving record, and daily life. We represent drivers facing a range of traffic violations and provide straightforward advice aimed at protecting your rights and minimizing disruption.
+Even a routine traffic citation can lead to lasting consequences for your insurance, driving record, and daily life. More serious matters, such as Driving While Intoxicated (DWI) can carry jail time. We represent drivers facing a range of traffic violations and provide straightforward advice aimed at protecting your rights and minimizing disruption.
 
 Many traffic matters can be handled efficiently and with upfront pricing, giving clients clarity from the beginning.
 
@@ -30,7 +30,7 @@ Many traffic matters can be handled efficiently and with upfront pricing, giving
 
 ## Criminal Defense
 
-A criminal accusation can affect your freedom, your work, and your family. We provide strategic representation from the earliest stage of a case through negotiation or trial, with a focus on protecting your rights and pursuing the best possible outcome.
+A criminal accusation can affect your freedom, your work, and your family. We provide strategic representation from the earliest stage of a case through negotiation or trial, with a focus on protecting your rights and pursuing the best possible outcome. 
 
 Every case receives careful preparation, honest communication, and a defense strategy tailored to the specific facts.
 

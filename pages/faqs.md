@@ -57,7 +57,9 @@ For North Carolina District Court and Superior Court matters, I represent client
 - Catawba County
 - Iredell County
 
-If you are located outside these areas, please contact me to discuss whether I may be able to assist.
+If you are located outside these areas and your cases is in North Carolina District or Superior Court, please contact me to discuss whether I may be able to assist.
+
+For estate planning and appellate work, I will serve clients throughout North Carolina and Pennsylvania.
 
 ---
 
@@ -65,7 +67,7 @@ If you are located outside these areas, please contact me to discuss whether I m
 
 I offer brief telephone consultations to determine whether your matter is something I can assist with.
 
-For matters requiring more detailed review and planning—such as estate planning or appellate matters—I offer paid consultations.
+For matters requiring more detailed review and planning, such as estate planning, appellate matters, or civil litigation, I offer paid consultations.
 
 The goal is to make sure we understand your situation and determine the best next step.
 
@@ -75,7 +77,7 @@ The goal is to make sure we understand your situation and determine the best nex
 
 Yes.
 
-As a solo practitioner, I personally handle my clients' matters from start to finish. You will have direct access to the attorney responsible for your case.
+I personally handle my clients' matters from start to finish. You will have direct access to the attorney responsible for your case.
 
 Because I provide personal attention to each client, appointments are required so I can give your matter the time and attention it deserves.
 
@@ -138,7 +140,7 @@ When litigation is necessary, I will advocate firmly for you. But professionalis
 
 ## What would you do if you were me?
 
-I understand why clients ask this question, but I do not make personal decisions for them.
+I understand why clients ask this question, but it's not my job to make decisions for my clients. At the end of the day, I don't face the consequences of my client's decisiions, and I can't tell them what to do. Only the client can decide what path to take. 
 
 My role is to:
 
@@ -147,29 +149,9 @@ My role is to:
 - Discuss potential risks and benefits
 - Provide my professional opinion
 
-Ultimately, you must decide the path that is right for you and your circumstances.
+Ultimately, each client must decide the path that is right for his or her circumstances.
 
-My job is to make sure you have the information needed to make that decision confidently.
-
----
-## How much does legal representation cost?
-
-### Transparent Pricing. Clear Expectations.
-
-The cost of legal representation depends on the type of matter, the complexity of the issues involved, and the amount of work required.
-
-Many **estate planning** and **traffic defense** services are offered on a flat-fee basis, allowing clients to understand the cost of representation upfront.
-
-For **criminal defense** matters and **appeals**, fees are determined based on the specific circumstances of the case, including complexity, anticipated work, and the level of representation required.
-
-Before representation begins, I will clearly explain:
-
-- The attorney fees involved
-- What services are included
-- Any anticipated additional costs
-- Available options moving forward
-
-At **Walchesky Law**, the goal is simple: no surprises and no uncertainty about what you can expect.
+My job is to make sure the clients have the information needed to make that decision confidently.
 
 ---
 

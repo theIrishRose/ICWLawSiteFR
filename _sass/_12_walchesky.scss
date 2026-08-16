@@ -1,0 +1,135 @@
+/* Walchesky Law custom design layer. Keep theme-specific code above this file. */
+
+:root {
+  --wl-navy: #173b52;
+  --wl-deep: #0e2b3d;
+  --wl-blue: #527d98;
+  --wl-sky: #dcebf2;
+  --wl-sand: #f4f1e9;
+  --wl-gold: #b89b5e;
+  --wl-text: #26343d;
+  --wl-muted: #64737c;
+  --wl-white: #ffffff;
+  --wl-border: #d9e1e5;
+  --wl-shadow: 0 12px 32px rgba(14, 43, 61, 0.09);
+}
+
+html { scroll-behavior: smooth; }
+body { color: var(--wl-text); background: #fff; }
+a { color: var(--wl-navy); }
+a:hover { color: var(--wl-blue); }
+
+#navigation { position: relative; z-index: 100; }
+#navigation .top-bar { background: var(--wl-deep); min-height: 64px; }
+#navigation .top-bar .name h1 a { color: #fff; font-family: Lato, Arial, sans-serif; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+#navigation .top-bar-section ul li > a { color: #fff; background: var(--wl-deep); font-family: Lato, Arial, sans-serif; font-weight: 700; letter-spacing: .03em; }
+#navigation .top-bar-section ul li > a:hover,
+#navigation .top-bar-section ul li.active > a { background: #234d66; color: #fff; }
+#navigation .top-bar-section .dropdown li a { background: var(--wl-deep); }
+#navigation .top-bar-section .dropdown li a:hover { background: #234d66; }
+#navigation .top-bar .toggle-topbar.menu-icon a span { color: #fff; }
+
+.wl-container { width: min(1160px, calc(100% - 40px)); margin: 0 auto; }
+.wl-narrow { max-width: 820px; }
+.wl-section { padding: 76px 0; }
+.wl-section--muted { background: var(--wl-sand); }
+.wl-section--intro { padding-bottom: 68px; }
+.wl-section--about { background: var(--wl-sky); }
+.wl-section--cta { background: var(--wl-deep); color: #fff; }
+.wl-section--cta h2, .wl-section--cta p { color: #fff; }
+.wl-section-heading { max-width: 760px; margin-bottom: 38px; }
+.wl-eyebrow { margin: 0 0 10px; color: var(--wl-gold); font-family: Lato, Arial, sans-serif; font-size: .82rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; }
+.wl-section h2 { color: var(--wl-navy); font-size: clamp(2rem, 4vw, 2.8rem); line-height: 1.15; margin: 0 0 20px; }
+.wl-section p { font-size: 1.05rem; line-height: 1.75; }
+
+.wl-home-hero {
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  background: center center / cover no-repeat;
+}
+.wl-home-hero__inner { width: min(1160px, calc(100% - 40px)); }
+.wl-home-hero__content { max-width: 700px; padding: 72px 0; color: #fff; }
+.wl-home-hero h1 { color: #fff; font-size: clamp(3rem, 6vw, 5rem); line-height: .98; margin: 0 0 24px; letter-spacing: -.025em; }
+.wl-home-hero h1 span { color: #d7c28c; }
+.wl-home-hero__lead { max-width: 600px; color: #fff; font-size: 1.3rem; line-height: 1.6; margin-bottom: 30px; }
+.wl-button-group { display: flex; flex-wrap: wrap; gap: 12px; }
+.wl-button { display: inline-block; padding: 14px 22px; border-radius: 2px; font-family: Lato, Arial, sans-serif; font-size: .9rem; font-weight: 700; letter-spacing: .03em; text-decoration: none; transition: transform .15s ease, background .15s ease, color .15s ease; }
+.wl-button:hover { transform: translateY(-1px); text-decoration: none; }
+.wl-button--primary { background: var(--wl-gold); color: #172c39; }
+.wl-button--primary:hover { background: #c8ae72; color: #172c39; }
+.wl-button--secondary { border: 1px solid rgba(255,255,255,.7); color: #fff; background: rgba(255,255,255,.06); }
+.wl-button--secondary:hover { background: rgba(255,255,255,.16); color: #fff; }
+
+.wl-page-hero { min-height: 300px; display: flex; align-items: center; background: var(--wl-sky); padding: 60px 0; background-position: center; background-size: cover; }
+.wl-page-hero--image { color: #fff; }
+.wl-page-hero--image h1, .wl-page-hero--image .wl-page-hero__subheadline, .wl-page-hero--image .wl-page-hero__eyebrow { color: #fff; }
+.wl-page-hero h1 { margin: 0 0 10px; font-size: clamp(2.3rem, 5vw, 4rem); line-height: 1.05; }
+.wl-page-hero__eyebrow { font-family: Lato, Arial, sans-serif; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; font-size: .82rem; }
+.wl-page-hero__subheadline { font-size: 1.2rem; margin: 0; max-width: 760px; }
+
+body:not(.frontpage) > .row,
+body:not(.frontpage) .row.t30 { width: min(960px, calc(100% - 40px)); margin-left: auto; margin-right: auto; }
+body:not(.frontpage) article header h1 { color: var(--wl-navy); }
+body:not(.frontpage) article .teaser { color: var(--wl-muted); font-size: 1.15rem; }
+body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1.75; }
+
+.wl-practice-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 22px; }
+.wl-practice-card { display: flex; flex-direction: column; padding: 28px 24px 24px; background: #fff; border: 1px solid var(--wl-border); box-shadow: var(--wl-shadow); color: var(--wl-text); text-decoration: none; transition: transform .18s ease, box-shadow .18s ease; }
+.wl-practice-card:hover { color: var(--wl-text); text-decoration: none; transform: translateY(-4px); box-shadow: 0 18px 38px rgba(14,43,61,.13); }
+.wl-practice-card img { width: 74px; height: 74px; object-fit: contain; margin-bottom: 20px; }
+.wl-practice-card h3 { color: var(--wl-navy); margin: 0 0 10px; font-size: 1.35rem; }
+.wl-practice-card p { margin: 0 0 18px; font-size: .98rem; line-height: 1.6; }
+.wl-practice-card > span { margin-top: auto; color: var(--wl-blue); font-family: Lato, Arial, sans-serif; font-size: .9rem; font-weight: 700; }
+
+.wl-values-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px 40px; }
+.wl-value { border-top: 2px solid var(--wl-gold); padding-top: 18px; }
+.wl-value h3 { color: var(--wl-navy); font-size: 1.25rem; margin: 0 0 8px; }
+.wl-value p { margin: 0; font-size: .98rem; }
+.wl-about-home { max-width: 850px; }
+.wl-text-link { font-family: Lato, Arial, sans-serif; font-weight: 700; text-decoration: none; }
+.wl-cta { max-width: 780px; text-align: center; }
+.wl-cta .wl-button { margin-top: 12px; }
+
+#footer-content { margin-top: 0; background: var(--wl-deep); color: #fff; }
+#footer { background: var(--wl-deep); padding: 56px 0 30px; }
+#footer h5, #footer p, #footer li, #footer a { color: #fff; }
+#footer a:hover { color: #d7c28c; }
+#subfooter { background: #092231; }
+#subfooter .credits, #subfooter .credits p { color: rgba(255,255,255,.72); }
+
+@media only screen and (max-width: 900px) {
+  .wl-practice-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .wl-values-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .wl-home-hero { min-height: 560px; background-position: 62% center; }
+}
+
+@media only screen and (max-width: 640px) {
+  .wl-container, .wl-home-hero__inner { width: min(100% - 28px, 1160px); }
+  .wl-section { padding: 54px 0; }
+  .wl-home-hero { min-height: 620px; background-position: 68% center; }
+  .wl-home-hero__content { padding: 54px 0; }
+  .wl-home-hero h1 { font-size: clamp(2.6rem, 13vw, 4rem); }
+  .wl-home-hero__lead { font-size: 1.08rem; }
+  .wl-button-group { align-items: stretch; flex-direction: column; }
+  .wl-button { text-align: center; }
+  .wl-page-hero { min-height: 250px; padding: 48px 0; }
+  .wl-practice-grid, .wl-values-grid { grid-template-columns: 1fr; }
+  body:not(.frontpage) > .row, body:not(.frontpage) .row.t30 { width: calc(100% - 28px); }
+}
+
+.wl-nav-brand { float: left; padding: 0 18px 0 0; line-height: 64px; }
+.wl-nav-brand a { color: #fff; font-family: Lato, Arial, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; }
+#navigation .top-bar-section .wl-nav-cta > a { color: #172c39; background: var(--wl-gold); }
+#navigation .top-bar-section .wl-nav-cta > a:hover { color: #172c39; background: #c8ae72; }
+.wl-content-cta { margin: 32px 0 10px; }
+.wl-blog-list { display: grid; gap: 24px; }
+.wl-blog-card { padding: 26px; border: 1px solid var(--wl-border); background: #fff; box-shadow: var(--wl-shadow); }
+.wl-blog-card__date { color: var(--wl-muted); font-family: Lato, Arial, sans-serif; font-size: .82rem !important; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+.wl-blog-card h2 { margin: 0 0 10px; font-size: 1.7rem; }
+.wl-blog-card h2 a { color: var(--wl-navy); text-decoration: none; }
+.wl-blog-card p { margin-bottom: 12px; }
+
+@media only screen and (max-width: 900px) {
+  .wl-nav-brand { display: none; }
+}

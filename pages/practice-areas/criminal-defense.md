@@ -18,6 +18,24 @@ With more than **20 years of courtroom experience**, Ian Walchesky understands t
 
 ---
 
+## Types of Cases We Handle
+
+Ian has experience both as a criminal defense attorney, and as a prosecutor in North Carolina. A sample of the types of cases Ian has handled in the past include:
+
+- Simple possession of marijuana
+- Simple assault
+- Trespassing
+- Reckless driving
+- Unlawfully carrying a concealed weapon
+- Larceny, receiving stolen property
+- Driving while intoxicated (DWI)
+- Assault on a female
+- Felony drug possession
+- Aggravated assault
+- Robbery
+
+If you have been charged with similar offenses, Walchesky Law can help protect your rights and explain your options. Even if you believe you are guilty of the offense you have been charged with, there may be options to have the charges reduced or even dismissed based on certain legal defenses.
+
 ## A Defense Built Around Your Case
 
 No two criminal cases are exactly alike. The right approach depends on the facts, the evidence, the law, and your goals.
