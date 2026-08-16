@@ -306,8 +306,12 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
   padding: 56px 0 40px;
 }
 
-#footer .footer-col {
-  margin-bottom: 2rem;
+.wl-footer-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  width: min(1160px, calc(100% - 40px));
+  margin: 0 auto;
 }
 
 #footer h5 {
@@ -364,23 +368,32 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
 #subfooter {
   background: #092231;
   padding: 1.1rem 0;
+  text-align: center;
 }
 
 #subfooter .footer-copy {
   margin: 0;
-  text-align: center;
   color: rgba(255,255,255,0.6);
   font-size: 0.9rem;
 }
 
-/* Mobile adjustments */
+/* Tablet & Mobile */
+@media only screen and (max-width: 900px) {
+  .wl-footer-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 32px;
+  }
+}
+
 @media only screen and (max-width: 640px) {
   #footer {
     padding: 42px 0 28px;
   }
 
-  #footer .footer-col {
-    margin-bottom: 2.2rem;
+  .wl-footer-grid {
+    grid-template-columns: 1fr;
+    gap: 28px;
+    width: calc(100% - 28px);
   }
 
   #footer .footer-desc {
