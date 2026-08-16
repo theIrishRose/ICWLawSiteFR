@@ -74,13 +74,136 @@ body:not(.frontpage) article header h1 { color: var(--wl-navy); }
 body:not(.frontpage) article .teaser { color: var(--wl-muted); font-size: 1.15rem; }
 body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1.75; }
 
-.wl-practice-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 22px; }
-.wl-practice-card { display: flex; flex-direction: column; padding: 28px 24px 24px; background: #fff; border: 1px solid var(--wl-border); box-shadow: var(--wl-shadow); color: var(--wl-text); text-decoration: none; transition: transform .18s ease, box-shadow .18s ease; }
-.wl-practice-card:hover { color: var(--wl-text); text-decoration: none; transform: translateY(-4px); box-shadow: 0 18px 38px rgba(14,43,61,.13); }
-.wl-practice-card img { width: 74px; height: 74px; object-fit: contain; margin-bottom: 20px; }
-.wl-practice-card h3 { color: var(--wl-navy); margin: 0 0 10px; font-size: 1.35rem; }
-.wl-practice-card p { margin: 0 0 18px; font-size: .98rem; line-height: 1.6; }
-.wl-practice-card > span { margin-top: auto; color: var(--wl-blue); font-family: Lato, Arial, sans-serif; font-size: .9rem; font-weight: 700; }
+/* ===== Practice Area Grid ===== */
+.wl-practice-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 22px;
+  width: 100%;
+  box-sizing: border-box;
+}
+/* Prevent Foundation rows from breaking the practice grid */
+.row .wl-practice-grid,
+.columns .wl-practice-grid,
+.wl-container .wl-practice-grid {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  max-width: 100%;
+}
+
+.wl-practice-card {
+  display: flex;
+  flex-direction: column;
+  padding: 28px 24px 24px;
+  background: #fff;
+  border: 1px solid var(--wl-border);
+  box-shadow: var(--wl-shadow);
+  color: var(--wl-text);
+  text-decoration: none;
+  transition: transform .18s ease, box-shadow .18s ease;
+  
+  /* Critical fixes */
+  min-width: 0;          /* allows the grid item to shrink properly */
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;      /* safety */
+}
+
+.wl-practice-card:hover {
+  color: var(--wl-text);
+  text-decoration: none;
+  transform: translateY(-4px);
+  box-shadow: 0 18px 38px rgba(14, 43, 61, .13);
+}
+
+.wl-practice-card img {
+  width: 74px;
+  height: 74px;
+  object-fit: contain;
+  margin-bottom: 20px;
+  flex-shrink: 0;
+}
+
+.wl-practice-card h3 {
+  color: var(--wl-navy);
+  margin: 0 0 10px;
+  font-size: 1.35rem;
+  line-height: 1.25;
+}
+
+.wl-practice-card p {
+  margin: 0 0 18px;
+  font-size: .98rem;
+  line-height: 1.6;
+  flex-grow: 1;
+
+  /* Stop the vertical word stacking */
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: none;
+  -webkit-hyphens: none;
+}
+
+.wl-practice-card > span {
+  margin-top: auto;
+  color: var(--wl-blue);
+  font-family: Lato, Arial, sans-serif;
+  font-size: .9rem;
+  font-weight: 700;
+}
+
+/* ===== Tablet ===== */
+@media only screen and (max-width: 900px) {
+  .wl-practice-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+  }
+}
+
+/* ===== Mobile / iPhone ===== */
+@media only screen and (max-width: 640px) {
+  .wl-practice-grid {
+    grid-template-columns: 1fr !important;   /* force single column */
+    gap: 16px;
+  }
+
+  .wl-practice-card {
+    padding: 22px 20px 20px;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .wl-practice-card img {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 16px;
+  }
+
+  .wl-practice-card h3 {
+    font-size: 1.25rem;
+  }
+
+  .wl-practice-card p {
+    font-size: 1rem;
+  }
+
+  /* Optional: remove the hover lift on touch devices */
+  .wl-practice-card:hover {
+    transform: none;
+    box-shadow: var(--wl-shadow);
+  }
+}
+
+/* Extra small phones */
+@media only screen and (max-width: 390px) {
+  .wl-practice-grid {
+    gap: 14px;
+  }
+  .wl-practice-card {
+    padding: 20px 18px 18px;
+  }
+}
 
 .wl-values-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px 40px; }
 .wl-value { border-top: 2px solid var(--wl-gold); padding-top: 18px; }
@@ -115,48 +238,6 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
   .wl-button { text-align: center; }
   .wl-page-hero { min-height: 250px; padding: 48px 0; }
   .wl-practice-grid, .wl-values-grid { grid-template-columns: 1fr; }
-
-  /* Mobile practice cards: compact, horizontal, and thumb-friendly on iPhone. */
-  .wl-practice-grid { gap: 14px; }
-  .wl-practice-card {
-    display: grid;
-    grid-template-columns: 58px minmax(0, 1fr);
-    grid-template-rows: auto auto auto;
-    column-gap: 16px;
-    padding: 18px;
-    min-height: 0;
-    align-items: start;
-    border-radius: 3px;
-    box-shadow: 0 7px 20px rgba(14,43,61,.07);
-  }
-  .wl-practice-card img {
-    grid-column: 1;
-    grid-row: 1 / span 3;
-    width: 54px;
-    height: 54px;
-    margin: 2px 0 0;
-  }
-  .wl-practice-card h3 {
-    grid-column: 2;
-    grid-row: 1;
-    margin: 0 0 5px;
-    font-size: 1.12rem;
-    line-height: 1.25;
-  }
-  .wl-practice-card p {
-    grid-column: 2;
-    grid-row: 2;
-    margin: 0 0 8px;
-    font-size: .9rem;
-    line-height: 1.45;
-  }
-  .wl-practice-card > span {
-    grid-column: 2;
-    grid-row: 3;
-    margin: 0;
-    font-size: .82rem;
-  }
-
   body:not(.frontpage) > .row, body:not(.frontpage) .row.t30 { width: calc(100% - 28px); }
 }
 
@@ -175,3 +256,4 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
 @media only screen and (max-width: 900px) {
   .wl-nav-brand { display: none; }
 }
+
