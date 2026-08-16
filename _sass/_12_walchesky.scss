@@ -115,6 +115,48 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
   .wl-button { text-align: center; }
   .wl-page-hero { min-height: 250px; padding: 48px 0; }
   .wl-practice-grid, .wl-values-grid { grid-template-columns: 1fr; }
+
+  /* Mobile practice cards: compact, horizontal, and thumb-friendly on iPhone. */
+  .wl-practice-grid { gap: 14px; }
+  .wl-practice-card {
+    display: grid;
+    grid-template-columns: 58px minmax(0, 1fr);
+    grid-template-rows: auto auto auto;
+    column-gap: 16px;
+    padding: 18px;
+    min-height: 0;
+    align-items: start;
+    border-radius: 3px;
+    box-shadow: 0 7px 20px rgba(14,43,61,.07);
+  }
+  .wl-practice-card img {
+    grid-column: 1;
+    grid-row: 1 / span 3;
+    width: 54px;
+    height: 54px;
+    margin: 2px 0 0;
+  }
+  .wl-practice-card h3 {
+    grid-column: 2;
+    grid-row: 1;
+    margin: 0 0 5px;
+    font-size: 1.12rem;
+    line-height: 1.25;
+  }
+  .wl-practice-card p {
+    grid-column: 2;
+    grid-row: 2;
+    margin: 0 0 8px;
+    font-size: .9rem;
+    line-height: 1.45;
+  }
+  .wl-practice-card > span {
+    grid-column: 2;
+    grid-row: 3;
+    margin: 0;
+    font-size: .82rem;
+  }
+
   body:not(.frontpage) > .row, body:not(.frontpage) .row.t30 { width: calc(100% - 28px); }
 }
 
