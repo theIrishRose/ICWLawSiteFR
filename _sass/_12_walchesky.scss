@@ -407,19 +407,46 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
 .wl-nav-logo {
   display: flex;
   align-items: center;
-  height: 64px;          /* matches your top-bar height */
+  gap: 10px;
+  height: 64px;
   padding: 0 12px 0 0;
+  text-decoration: none;
 }
 
 .wl-nav-logo img {
-  height: 42px;          /* adjust to taste */
+  height: 42px;
   width: auto;
   display: block;
+  flex-shrink: 0;
 }
 
-/* Optional: hide the old text title on large screens if it still appears */
-#navigation .top-bar .name h1 {
-  display: none;
+.wl-nav-logo-text {
+  color: #fff;
+  font-family: Lato, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+/* Large screens: show only the W logo */
+@media only screen and (min-width: 641px) {
+  .wl-nav-logo-text {
+    display: none;
+  }
+}
+
+/* Mobile: show W + text */
+@media only screen and (max-width: 640px) {
+  .wl-nav-logo img {
+    height: 36px;
+  }
+  
+  .wl-nav-logo-text {
+    display: inline;
+    font-size: 0.95rem;
+  }
 }
 /* Hero watermark */
 .wl-home-hero {
@@ -457,5 +484,99 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
 @media only screen and (max-width: 640px) {
   .wl-hero-watermark {
     display: none;        /* usually best to hide on small phones */
+  }
+}
+.wl-practice-header {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.wl-practice-icon {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.wl-practice-header h1 {
+  margin: 0;
+}
+/* ===== About page ===== */
+.wl-about-intro {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.wl-about-photo {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 4px;
+  flex-shrink: 0;
+  box-shadow: var(--wl-shadow);
+}
+
+.wl-about-intro-text h1 {
+  margin: 0 0 0.5rem;
+}
+
+.wl-about-intro-text .teaser {
+  margin: 0;
+  color: var(--wl-muted);
+  font-size: 1.15rem;
+}
+
+@media only screen and (max-width: 640px) {
+  .wl-about-intro {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.25rem;
+  }
+
+  .wl-about-photo {
+    width: 140px;
+    height: 140px;
+  }
+}
+
+/* Keep sidebar beside content only when a sidebar exists */
+body:not(.frontpage) .row.t30:has(> .medium-4.columns) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  width: min(960px, calc(100% - 40px));
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body:not(.frontpage) .row.t30:has(> .medium-4.columns) > .medium-8.columns {
+  float: none;
+  width: 65%;
+  max-width: 65%;
+  flex: 0 0 65%;
+  padding-right: 2rem;
+  box-sizing: border-box;
+}
+
+body:not(.frontpage) .row.t30:has(> .medium-4.columns) > .medium-4.columns {
+  float: none;
+  width: 35%;
+  max-width: 35%;
+  flex: 0 0 35%;
+  box-sizing: border-box;
+}
+
+/* Stack on mobile */
+@media only screen and (max-width: 640px) {
+  body:not(.frontpage) .row.t30:has(> .medium-4.columns) > .medium-8.columns,
+  body:not(.frontpage) .row.t30:has(> .medium-4.columns) > .medium-4.columns {
+    width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+    padding-right: 0;
   }
 }

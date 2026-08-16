@@ -1,14 +1,20 @@
 ---
 layout              : page
 sidebar             : right
-title               : "About Ian"
-subheadline         : "Ian Walchesky"
-teaser              : "Steady, strategic guidance for clients facing difficult legal decisions"
 header:
-   image_fullwidth  : "WalcheskyLawHeader.jpg"
+  image_fullwidth   : "WalcheskyLawHeader.jpg"
 permalink           : "/about-ian/"
 ---
 
+<div class="wl-about-intro">
+  <img src="{{ site.baseurl }}/images/ian-walchesky.jpg" alt="Ian C. Walchesky" class="wl-about-photo">
+
+  <div class="wl-about-intro-text">
+    <h1>About Ian</h1>
+    <p class="wl-eyebrow">Ian C. Walchesky</p>
+    <p class="teaser">Steady, strategic guidance for clients facing difficult legal decisions.</p>
+  </div>
+</div>
 
 With more than two decades of experience, Ian Walchesky has represented individuals, businesses, government agencies, and families in matters involving traffic defense, criminal defense, estate planning, and appeals. His work is grounded in careful listening, practical strategy, and clear communication. 
 
@@ -39,19 +45,7 @@ Hopefully, you will come to find your experience with me to be professional, yet
 
 Oh, and unless I'm actually in a courtroom, you won't catch me in a suit (despite my headshot).
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/contact/">Schedule a 15-Minute Discovery Call</a>
 
-Put this in a sidebar:
-Image of me
-
-Ian C. Walchesky
-Education
-University of Pittsburgh School of Law
- - JD, *cum laude* 2005
-   - Editor in Chief, *Journal of Law and Commerce*, 2024-25
-   - Dean's Scholarship
-
- Dickinson College
- - BA, *cum laude* 2002
-   - Benjamin Rush Scholarship
-
+  <p style="margin-top: 1.75rem;">
+    <a href="{{ site.baseurl }}/contact/" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+  </p>

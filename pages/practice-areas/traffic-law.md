@@ -1,14 +1,17 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Traffic Law"
-teaser              : "Walchesky Law provides traffic defense representation throughout the Charlotte metro area for speeding tickets, reckless driving charges, license issues, and other traffic violations."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/traffic-law/"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/icon_traffic.png" style="width:25%; height:auto;">
+<div class="wl-practice-header">
+  <img src="{{ site.baseurl }}/images/icon_traffic.png" alt="" class="wl-practice-icon">
+  <h1>Traffic Law</h1>
+</div>
+
+Walchesky Law provides traffic defense representation throughout the Charlotte metro area for speeding tickets, reckless driving charges, license issues, and other traffic violations.
 
 ## Protect Your Record. Protect Your License.
 
@@ -68,11 +71,10 @@ If you received a traffic citation in the Charlotte metro area, don't wait until
 
 Contact **Walchesky Law** to discuss your options and learn how we can help protect your driving record.
 
-<div class="text-center mt-4">
-  <a class="btn btn-primary btn-lg" href="/contact/">
-    Schedule a 15-Minute Discovery Call
-  </a>
-</div>
+
+  <p style="margin-top: 1.75rem;">
+    <a href="{{ site.baseurl }}/contact/" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+  </p>
 
 
 

@@ -1,12 +1,18 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Appeals & Post-Conviction Relief"
-teaser              : "Providing appellate representation and post-conviction advocacy for clients seeking review of legal errors and trial outcomes."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/appeals/"
 ---
+
+
+<div class="wl-practice-header">
+  <img src="{{ site.baseurl }}/images/icon_appeal.png" alt="" class="wl-practice-icon">
+  <h1>Appeals & Post-Conviction Relief</h1>
+</div>
+
+Providing appellate representation and post-conviction advocacy for clients seeking review of legal errors and trial outcomes.
 
 ## When the Trial Ends, the Legal Process May Not Be Over.
 
@@ -78,8 +84,7 @@ Ian Walchesky understands both sides of the process: how cases are built in the 
 
 Whether you are considering a direct appeal, seeking post-conviction relief, or need guidance about potential appellate issues, Walchesky Law provides experienced and practical advice focused on helping you determine the best path forward.
 
-<div class="text-center mt-4">
-  <a class="btn btn-primary btn-lg" href="/contact/">
-    Schedule a 15-Minute Discovery Call
-  </a>
-</div>
+
+  <p style="margin-top: 1.75rem;">
+    <a href="{{ site.baseurl }}/contact/" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+  </p>

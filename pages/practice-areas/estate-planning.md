@@ -1,12 +1,19 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Estate Planning"
-teaser              : "Helping individuals and families create thoughtful estate plans that protect assets and provide clarity for the future."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/estate-planning/"
 ---
+
+
+<div class="wl-practice-header">
+  <img src="{{ site.baseurl }}/images/icon_estate_planning.png" alt="" class="wl-practice-icon">
+  <h1>Estate Planning</h1>
+</div>
+
+Helping individuals and families create thoughtful estate plans that protect assets and provide clarity for the future.
+
 ## Protect What Matters Most
 
 At other firms, estate planning is about providing clients with documents that, they hope, handle the clients' affairs after their death. At Walchesky Law, estate planning is about analyzing each person's or family's situation and goals, creating clarity, protecting the people you love, and making sure your wishes are honored when they matter most.
@@ -140,8 +147,7 @@ The best time to create an estate plan is before you need one.
 
 Contact **Walchesky Law** to discuss your goals and learn how we can help protect what matters most.
 
-<div class="text-center mt-4">
-  <a class="btn btn-primary btn-lg" href="/contact/">
-    Schedule a 15-minute Discovery Call
-  </a>
-</div>
+
+  <p style="margin-top: 1.75rem;">
+    <a href="{{ site.baseurl }}/contact/" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+  </p>

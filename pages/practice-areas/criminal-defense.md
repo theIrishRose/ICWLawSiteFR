@@ -1,12 +1,17 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Criminal Defense"
-teaser              : "Defending clients against criminal charges with practical strategy, honest guidance, and focused advocacy."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/criminal-defense/"
 ---
+
+<div class="wl-practice-header">
+  <img src="{{ site.baseurl }}/images/icon_criminal_defense.png" alt="" class="wl-practice-icon">
+  <h1>Criminal Defense</h1>
+</div>
+
+Defending clients against criminal charges with practical strategy, honest guidance, and focused advocacy.
 
 ## Strategic Defense When It Matters
 
@@ -75,8 +80,7 @@ If you or a loved one is facing criminal charges, early action can make a differ
 
 Contact **Walchesky Law** to discuss your case and learn what options may be available.
 
-<div class="text-center mt-4">
-  <a class="btn btn-primary btn-lg" href="/contact/">
-    Schedule a 15-Minute Discovery Call
-  </a>
-</div>
+
+  <p style="margin-top: 1.75rem;">
+    <a href="{{ site.baseurl }}/contact/" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+  </p>
