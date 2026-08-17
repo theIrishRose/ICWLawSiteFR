@@ -9,7 +9,7 @@ permalink           : "/practice-areas/"
 ---
 
 <div class="wl-section-heading" style="margin-bottom: 2.5rem;">
-  <p class="wl-eyebrow">What We Handle</p>
+  <p class="wl-eyebrow">What I Handle</p>
   <h2>Focused counsel for the matters that matter most.</h2>
   <p>Walchesky Law provides strategic representation in four core areas. Each matter receives personal attention and clear guidance from start to finish.</p>
 </div>
@@ -17,7 +17,7 @@ permalink           : "/practice-areas/"
 {% include _practice-areas-grid.html %}
 
 <div style="margin-top: 3.5rem; max-width: 720px;">
-  <h2>How We Work</h2>
+  <h2>How I Work</h2>
   <p>Whether you are dealing with a traffic citation, a criminal charge, an appeal, or questions about protecting your family’s future, the approach is the same: listen carefully, explain the options clearly, and pursue the strategy that best serves your goals.</p>
   
   <p style="margin-top: 1.75rem;">

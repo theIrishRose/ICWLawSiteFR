@@ -25,9 +25,9 @@ The earlier you understand your options, the better positioned you are to make i
 
 ## Can every case be appealed?
 
-No. Not every unfavorable result can be overturned on appeal.
+Most cases can be appealed, but that doesn't mean that they should be. Appeals are expensive endeavors, requiring a massive amount of time to put together the reproduced record and to review the entire trial court proceedings for error. In many cases, the facts or the law may simply be such that an appeal may not make sense.
 
-Appeals are not a second trial. They are limited to specific legal issues, procedural requirements, and standards of review.
+The important thing to know is that appeals are not a second trial. They are limited to specific legal issues, procedural requirements, and standards of review.
 
 Before recommending an appeal, I carefully evaluate:
 
@@ -37,7 +37,7 @@ Before recommending an appeal, I carefully evaluate:
 - The likelihood of success
 - The costs and benefits of pursuing an appeal
 
-My goal is to help clients make informed decisions—not pursue unnecessary litigation.
+My goal is to help clients make informed decisions rather than encouraging them to pursue unnecessary litigation with a low chance of success.
 
 ---
 
@@ -55,19 +55,19 @@ For North Carolina District Court and Superior Court matters, I represent client
 - Catawba County
 - Iredell County
 
-If you are located outside these areas and your cases is in North Carolina District or Superior Court, please contact me to discuss whether I may be able to assist.
+If you are located outside these areas and your case is in North Carolina District or Superior Court, please contact me to discuss whether I may be able to assist.
 
-For estate planning and appellate work, I will serve clients throughout North Carolina and Pennsylvania.
+For estate planning and appellate work, I serve clients throughout North Carolina and Pennsylvania.
 
 ---
 
 ## Do you offer free consultations?
 
-I offer brief telephone consultations to determine whether your matter is something I can assist with.
+I offer brief telephone conversations to determine whether your matter is something I can assist with.
 
 For matters requiring more detailed review and planning, such as estate planning, appellate matters, or civil litigation, I offer paid consultations.
 
-The goal is to make sure we understand your situation and determine the best next step.
+The goal is to make sure we understand your situation, to see if we would be a good fit to work together, and to determine the best next step.
 
 ---
 
@@ -102,7 +102,7 @@ Yes.
 
 If I believe the potential cost of litigation outweighs the likely benefit, I will tell you.
 
-Good legal representation is not about encouraging unnecessary conflict. It is about helping clients make sound decisions based on their goals, circumstances, and realistic expectations.
+Quality legal representation is not about encouraging unnecessary conflict. It is about helping clients make sound decisions based on their goals, circumstances, and realistic expectations.
 
 ---
 
@@ -132,13 +132,13 @@ Being professional and respectful with opposing counsel does not mean I am not a
 
 Some clients think they need an attorney who is the loudest person in the room or someone who is always looking for a fight. In many situations, that approach can increase conflict, expense, and stress without improving the outcome.
 
-When litigation is necessary, I will advocate firmly for you. But professionalism and effective advocacy are not opposites—they often work together.
+When litigation is necessary, I will advocate firmly for you. But professionalism and effective advocacy are not opposites. They often work together to produce the best results.
 
 ---
 
 ## What would you do if you were me?
 
-I understand why clients ask this question, but it's not my job to make decisions for my clients. At the end of the day, I don't face the consequences of my client's decisiions, and I can't tell them what to do. Only the client can decide what path to take. 
+I understand why clients ask this question, but it's not my job to make decisions for my clients. At the end of the day, I don't face the consequences of my client's decisions, and I can't tell them what to do. Only the client can decide what path to take. 
 
 My role is to:
 

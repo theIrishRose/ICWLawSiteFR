@@ -17,15 +17,15 @@ Defending clients against criminal charges with practical strategy, honest guida
 
 A criminal charge can affect your freedom, your reputation, your career, and your future. The decisions made early in a case can have lasting consequences, which is why experienced legal guidance matters from the beginning.
 
-At **Walchesky Law**, we provide thoughtful and strategic criminal defense representation focused on protecting your rights, evaluating your options, and developing a defense strategy tailored to the specific circumstances of your case.
+At **Walchesky Law**, I provide thoughtful and strategic criminal defense representation focused on protecting your rights, evaluating your options, and developing a defense strategy tailored to the specific circumstances of your case.
 
-With more than **20 years of courtroom experience**, Ian Walchesky understands that every case requires careful preparation, honest advice, and a clear plan moving forward.
+With more than **20 years of courtroom experience**, I understand that every case requires careful preparation, honest advice, and a clear plan moving forward.
 
 ---
 
-## Types of Cases We Handle
+## Types of Cases I Handle
 
-Ian has experience both as a criminal defense attorney, and as a prosecutor in North Carolina. A sample of the types of cases Ian has handled in the past include:
+I have experience both as a criminal defense attorney and as a prosecutor. A sample of the types of cases I have handled in the past include:
 
 - Simple possession of marijuana
 - Simple assault
@@ -33,7 +33,7 @@ Ian has experience both as a criminal defense attorney, and as a prosecutor in N
 - Reckless driving
 - Unlawfully carrying a concealed weapon
 - Larceny, receiving stolen property
-- Driving while intoxicated (DWI)
+- Driving while impaired (DWI)
 - Assault on a female
 - Felony drug possession
 - Aggravated assault
@@ -45,9 +45,9 @@ If you have been charged with similar offenses, Walchesky Law can help protect y
 
 No two criminal cases are exactly alike. The right approach depends on the facts, the evidence, the law, and your goals.
 
-We begin by carefully reviewing the circumstances surrounding your case and identifying the strongest path forward.
+I begin by carefully reviewing the circumstances surrounding your case and identifying the strongest path forward.
 
-Our representation includes:
+My representation includes:
 
 - Early case evaluation and legal analysis
 - Investigation of the facts and evidence
@@ -62,7 +62,7 @@ Our representation includes:
 
 Some cases are resolved through negotiation. Others require aggressive litigation and trial advocacy. The key is understanding which strategy best serves your interests.
 
-At **Walchesky Law**, we do not take a one-size-fits-all approach. We provide honest assessments, explain your options clearly, and prepare your case with the attention it deserves.
+At **Walchesky Law**, I do not take a one-size-fits-all approach. I provide honest assessments, explain your options clearly, and prepare your case with the attention it deserves.
 
 ---
 
@@ -70,7 +70,7 @@ At **Walchesky Law**, we do not take a one-size-fits-all approach. We provide ho
 
 A criminal accusation can leave you feeling uncertain about what comes next. Having an experienced advocate on your side can provide clarity during a difficult time.
 
-Whether you are facing a misdemeanor or felony charge, we are committed to providing knowledgeable representation, responsive communication, and a defense strategy focused on achieving the best possible outcome.
+Whether you are facing a misdemeanor or felony charge, I am committed to providing knowledgeable representation, responsive communication, and a defense strategy focused on achieving the best possible outcome.
 
 ---
 

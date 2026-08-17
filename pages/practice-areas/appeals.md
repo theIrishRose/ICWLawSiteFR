@@ -16,15 +16,15 @@ Providing appellate representation and post-conviction advocacy for clients seek
 
 ## When the Trial Ends, the Legal Process May Not Be Over.
 
-A trial court decision is not always the final word. When serious legal errors affect the outcome of a case, an appeal or, in the context of a criminal conviction, a post-conviction proceeding may provide an opportunity to seek review and relief.
+A trial court decision is not always the final word. When serious legal errors affect the outcome of a case, an appeal or, in the context of a criminal conviction, a post-conviction proceeding, may provide an opportunity to seek review and relief.
 
-At **Walchesky Law**, we provide experienced appellate representation built on careful legal analysis, persuasive writing, and strategic advocacy. With more than **20 years of experience in state and federal courts**, including service as a law clerk to the **Pennsylvania Supreme Court**, Ian Walchesky brings a unique perspective to appellate litigation.
+At **Walchesky Law**, I provide experienced appellate representation built on careful legal analysis, persuasive writing, and strategic advocacy. With more than **20 years of experience in state and federal courts**, including service as a law clerk to the **Pennsylvania Supreme Court**, Ian Walchesky brings a unique perspective to appellate litigation.
 
 ---
 
 ## Appeals Require a Different Kind of Advocacy
 
-An appeal is not a second trial. When cases are appealed, the Court of Appeals does not give litigants a "do-over." No new evidence is introduced. Instead, appellate courts review whether significant legal errors occurred and whether those errors affected the outcome of the proceedings in the trial court. Not every error results in a successful decision in the appellate courts. Ian's appellate experience and reasoned judgment can help identify the key appellate issues and focus the appellate court's attention to the most pertinent issues.
+An appeal is not a second trial. When cases are appealed, the Court of Appeals does not give litigants a "do-over." No new evidence is introduced. Instead, appellate courts review whether significant legal errors occurred and whether those errors affected the outcome of the proceedings in the trial court. Not every error results in a successful decision in the appellate courts. Ian's appellate experience and reasoned judgment can help identify the key appellate issues and focus the appellate court's attention on the most pertinent issues.
 
 Successful appellate advocacy requires:
 
@@ -35,7 +35,7 @@ Successful appellate advocacy requires:
 - Presenting focused and compelling legal analysis
 - Educating the appellate court on the background of the case.
 
-The strongest appeals are often built around a few important issues. Appeals that raise more than three key issues often lose their persuasiveness and cause courts to look more skeptically at the argumentse being made. Careful judgment and strategic focus on the best issues is what matters in appellate advocacy.
+The strongest appeals are often built around a few important issues. Appeals that raise more than three key issues often lose their persuasiveness and cause courts to look more skeptically at the arguments being made. Careful judgment and strategic focus on the best issues is what matters in appellate advocacy.
 
 ---
 
@@ -49,7 +49,7 @@ Walchesky Law provides appellate representation and consultation involving:
 - Sentencing challenges
 - Discretionary review petitions
 - Appellate consultation for trial counsel
-- Co-counsel with other attorneys for appellate work
+- Co-counsel with other attorneys for appellate analysis and drafting
 
 ---
 
@@ -57,16 +57,16 @@ Walchesky Law provides appellate representation and consultation involving:
 
 One of the most important services an appellate attorney can provide is an honest assessment of whether an appeal is the right path.
 
-Not every unfavorable result can be overturned. Some legal errors, even obvious ones, may not provide a basis for appellate relief if it did not change the outcome of the case.
+Not every unfavorable result can be overturned. Some legal errors, even obvious ones, may not provide a basis for appellate relief if they did not change the outcome of the case.
 
-Before recommending an appeal or post-conviction proceeding, we carefully evaluate:
+Before recommending an appeal or post-conviction proceeding, I carefully evaluate:
 
 - The legal issues involved
 - The procedural history of the case
 - The likelihood of success
 - The potential costs and benefits
 
-If an appeal presents a meaningful opportunity for relief, we will explain the strategy and the reasons behind it. If an appeal is unlikely to achieve the desired result, we will provide that guidance as well.
+If an appeal presents a meaningful opportunity for relief, I will explain the strategy and the reasons behind it. If an appeal is unlikely to achieve the desired result, I will provide that guidance as well.
 
 The goal is not unnecessary litigation. The goal is helping clients make informed decisions and pursue meaningful legal remedies when available.
 
@@ -76,7 +76,7 @@ The goal is not unnecessary litigation. The goal is helping clients make informe
 
 Appellate work requires more than knowing the law. It requires understanding how appellate judges evaluate arguments, how legal issues are preserved, and how persuasive written advocacy can influence the outcome of a case.
 
-Ian Walchesky understands both sides of the process: how cases are built in the trial court and how appellate courts analyze alleged errors. That perspective allows him to identify the issues most likely to make a difference.
+I understand both sides of the process: how cases are built in the trial court and how appellate courts analyze alleged errors. That perspective allows me to identify the issues most likely to make a difference.
 
 ---
 

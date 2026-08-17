@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Walcheksky Law Blog"
+title: "Walchesky Law Blog"
 subheadline: "Thoughts and Information from Walchesky Law"
 permalink: "/law/"
 ---

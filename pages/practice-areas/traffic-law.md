@@ -17,23 +17,23 @@ Walchesky Law provides traffic defense representation throughout the Charlotte m
 
 A traffic citation may seem like a minor inconvenience, but the consequences can extend far beyond a court date. Points on your license, increased insurance rates, employment concerns, and potential license consequences can all create lasting problems.
 
-At **Walchesky Law**, we help drivers throughout the Charlotte metro area and Lake Norman navigate traffic matters with clear advice, efficient representation, and a strategy focused on protecting your driving record and your future.
+At **Walchesky Law**, I help drivers throughout the Charlotte metro area and Lake Norman navigate traffic matters with clear advice, efficient representation, and a strategy focused on protecting your driving record and your future.
 
 ---
 
-## Traffic Matters We Handle
+## Traffic Matters I Handle
 
-We represent clients facing a wide range of traffic-related charges, including:
+I represent clients facing a wide range of traffic-related charges, including:
 
 - Speeding violations
 - Careless & reckless driving
 - Driving while license revoked
 - Expired registration and/or insurance
 - Moving violations
-- Driving while intoxicated (DWI)
+- Driving while impaired (DWI)
 - Other traffic-related offenses
 
-Every case is different. We evaluate the circumstances surrounding your citation, explain your options, and help you understand the best path forward.
+Every case is different. I evaluate the circumstances surrounding your citation, explain your options, and help you understand the best path forward.
 
 ---
 
@@ -69,7 +69,7 @@ Our goal is simple: help you make informed decisions and pursue the best possibl
 
 If you received a traffic citation in the Charlotte metro area, don't wait until the consequences become more serious.
 
-Contact **Walchesky Law** to discuss your options and learn how we can help protect your driving record.
+Contact **Walchesky Law** to discuss your options and learn how I can help protect your driving record.
 
 
   <p style="margin-top: 1.75rem;">

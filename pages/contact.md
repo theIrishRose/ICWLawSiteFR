@@ -13,7 +13,7 @@ permalink           : "/contact/"
 
 A 15-minute Discovery Call is an opportunity to briefly discuss your situation, determine whether Walchesky Law may be able to help, and identify the appropriate next step.
 
-There is no pressure and no obligation — just clear information so you can make an informed decision.
+There is no pressure and no obligation. Just clear information so you can make an informed decision.
 
 <p style="margin: 1.75rem 0 2.5rem;">
   <a href="tel:9803857635" class="wl-button wl-button--primary">Call 980-385-7635</a>
