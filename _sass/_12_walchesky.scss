@@ -628,6 +628,7 @@ body:not(.frontpage) #masthead #logo {
 body:not(.frontpage) #masthead #logo img {
   max-height: 200px;
   width: auto;
+  max-width: 90%;
 }
 /* Make sure homepage hero is never affected */
 .wl-home-hero,
