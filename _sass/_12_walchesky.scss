@@ -584,3 +584,80 @@ body:not(.frontpage) .row.t30:has(> .medium-4.columns) > .medium-4.columns {
     padding-right: 0;
   }
 }
+
+/* ===== Interior image headers only ===== */
+body:not(.frontpage) #masthead {
+  position: relative;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
+
+body:not(.frontpage) #masthead::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(14, 43, 61, 0.55) 0%,
+    rgba(14, 43, 61, 0.35) 50%,
+    rgba(14, 43, 61, 0.25) 100%
+  );
+  z-index: 1;
+  pointer-events: none;
+}
+
+body:not(.frontpage) #masthead .row {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+}
+
+body:not(.frontpage) #masthead #logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+  padding-bottom: 100px;   /* increases this number to move the logo UP */
+}
+
+body:not(.frontpage) #masthead #logo img {
+  max-height: 200px;
+  width: auto;
+}
+/* Make sure homepage hero is never affected */
+.wl-home-hero,
+.wl-home-hero * {
+  /* protect homepage */
+}
+
+body.frontpage #masthead,
+body.frontpage #masthead::before {
+  display: none !important;
+  height: 0 !important;
+  background: none !important;
+}
+
+/* Tablet */
+@media only screen and (max-width: 900px) {
+  body:not(.frontpage) #masthead {
+    height: 220px;
+  }
+  body:not(.frontpage) #masthead #logo img {
+    max-height: 56px;
+  }
+}
+
+/* Mobile */
+@media only screen and (max-width: 640px) {
+  body:not(.frontpage) #masthead {
+    height: 180px;
+  }
+  body:not(.frontpage) #masthead #logo img {
+    max-height: 48px;
+  }
+}
