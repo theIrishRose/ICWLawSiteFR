@@ -11,7 +11,10 @@ permalink           : "/practice-areas/criminal-defense/"
   <h1>Criminal Defense</h1>
 </div>
 
+
+<div class="wl-section-heading" style="margin-bottom: 2.5rem;">
 <p class="wl-eyebrow">Defending clients against criminal charges with practical strategy, honest guidance, and focused advocacy.</p>
+</div>
 
 ## Strategic Defense When It Matters
 

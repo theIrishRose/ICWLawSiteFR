@@ -12,8 +12,10 @@ permalink           : "/practice-areas/appeals/"
   <h1>Appeals & Post-Conviction Relief</h1>
 </div>
 
+
+<div class="wl-section-heading" style="margin-bottom: 2.5rem;">
  <p class="wl-eyebrow">Providing appellate representation and post-conviction advocacy for clients seeking review of legal errors and trial outcomes.</p>
- 
+ </div>
 
 ## When the Trial Ends, the Legal Process May Not Be Over.
 

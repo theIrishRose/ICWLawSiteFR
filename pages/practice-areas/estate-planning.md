@@ -13,8 +13,9 @@ permalink           : "/practice-areas/estate-planning/"
 </div>
 
 
+<div class="wl-section-heading" style="margin-bottom: 2.5rem;">
 <p class="wl-eyebrow">Helping individuals and families create thoughtful estate plans that protect assets and provide clarity for the future.</p>
-
+</div>
 
 ## Protect What Matters Most
 

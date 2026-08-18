@@ -12,8 +12,9 @@ permalink           : "/practice-areas/traffic-law/"
 </div>
 
 
+<div class="wl-section-heading" style="margin-bottom: 2.5rem;">
 <p class="wl-eyebrow">Providing traffic defense representation throughout the Charlotte metro area for speeding tickets, reckless driving charges, license issues, and other traffic violations.</p>
-
+</div>
 
 ## Protect Your Record. Protect Your License.
 
