@@ -1,17 +1,14 @@
 ---
 layout: page
-show_meta: false
-title: "Walchesky Law Blog"
-subheadline: "Thoughts and Information from Walchesky Law"
-permalink: "/law/"
+title:  "North Carolina’s Two Point System – The Real Cost of a Traffic Ticket"
+subheadline: License and Insurance Points
+teaser: "Did you know that when you get a traffic ticket, two sets of points systems kick into gear? Learn about license points and insurance points."
+meta_teaser: "People have a common misconception about traffic tickets in North Carolina. When faced with a speeding ticket or other traffic infraction, many drivers do a quick online search, confirm they won’t lose their license, see that the fine and court costs are manageable, and decide to pay online. No court appearance required. Quick and easy, right? What most people don’t realize is that the State of North Carolina operates **two separate points systems** for drivers. Not understanding the difference can create serious (and expensive) problems."
+breadcrumb: false
+categories:
+    - Traffic Law
+author: Ian Walchesky
 ---
-<ul>
-    {% for post in site.categories.Law %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
-
-# North Carolina’s Two Point System – The Real Cost of a Traffic Ticket
 
 *“I’ll just pay the ticket online. It’s just easier.”*
 
@@ -57,3 +54,5 @@ Points are assessed on the **conviction**, not merely on the issuance of the tic
 
 **Did you get a traffic ticket in North Carolina?**  
 Schedule a **15-Minute Discovery Call** before you pay the ticket online.
+
+> "This article is not intended as legal advice, but is provided for educational use only. You should consult an attorney for legal advice."
