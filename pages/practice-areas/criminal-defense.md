@@ -7,11 +7,11 @@ permalink           : "/practice-areas/criminal-defense/"
 ---
 
 <div class="wl-practice-header">
-  <img src="{{ site.baseurl }}/images/icon_criminal_defense.png" alt="" class="wl-practice-icon">
+  <img src="{{ site.baseurl }}/images/icon_criminal_defense.png" alt="Criminal Defense Icon" class="wl-practice-icon">
   <h1>Criminal Defense</h1>
 </div>
 
-Defending clients against criminal charges with practical strategy, honest guidance, and focused advocacy.
+<p class="wl-eyebrow">Defending clients against criminal charges with practical strategy, honest guidance, and focused advocacy.</p>
 
 ## Strategic Defense When It Matters
 
@@ -40,6 +40,8 @@ I have experience both as a criminal defense attorney and as a prosecutor. A sam
 - Robbery
 
 If you have been charged with similar offenses, Walchesky Law can help protect your rights and explain your options. Even if you believe you are guilty of the offense you have been charged with, there may be options to have the charges reduced or even dismissed based on certain legal defenses.
+
+---
 
 ## A Defense Built Around Your Case
 

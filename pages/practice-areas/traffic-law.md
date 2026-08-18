@@ -7,11 +7,13 @@ permalink           : "/practice-areas/traffic-law/"
 ---
 
 <div class="wl-practice-header">
-  <img src="{{ site.baseurl }}/images/icon_traffic.png" alt="" class="wl-practice-icon">
+  <img src="{{ site.baseurl }}/images/icon_traffic.png" alt="Traffic Law icon" class="wl-practice-icon">
   <h1>Traffic Law</h1>
 </div>
 
-Walchesky Law provides traffic defense representation throughout the Charlotte metro area for speeding tickets, reckless driving charges, license issues, and other traffic violations.
+
+<p class="wl-eyebrow">Providing traffic defense representation throughout the Charlotte metro area for speeding tickets, reckless driving charges, license issues, and other traffic violations.</p>
+
 
 ## Protect Your Record. Protect Your License.
 

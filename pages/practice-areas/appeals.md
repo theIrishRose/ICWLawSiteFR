@@ -8,11 +8,12 @@ permalink           : "/practice-areas/appeals/"
 
 
 <div class="wl-practice-header">
-  <img src="{{ site.baseurl }}/images/icon_appeal.png" alt="" class="wl-practice-icon">
+  <img src="{{ site.baseurl }}/images/icon_appeal.png" alt="Appeal Law Icon" class="wl-practice-icon">
   <h1>Appeals & Post-Conviction Relief</h1>
 </div>
 
-Providing appellate representation and post-conviction advocacy for clients seeking review of legal errors and trial outcomes.
+ <p class="wl-eyebrow">Providing appellate representation and post-conviction advocacy for clients seeking review of legal errors and trial outcomes.</p>
+ 
 
 ## When the Trial Ends, the Legal Process May Not Be Over.
 
