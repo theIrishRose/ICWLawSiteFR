@@ -55,4 +55,10 @@ Points are assessed on the **conviction**, not merely on the issuance of the tic
 **Did you get a traffic ticket in North Carolina?**  
 Schedule a **15-Minute Discovery Call** before you pay the ticket online.
 
+
+  <p style="margin-top: 1.75rem;">
+    <a href="{{ site.baseurl }}/contact/" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+  </p>
+
+
 > "This article is not intended as legal advice, but is provided for educational use only. You should consult an attorney for legal advice."
