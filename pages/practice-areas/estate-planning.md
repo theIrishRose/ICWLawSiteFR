@@ -30,7 +30,11 @@ Whether you need a straightforward will or a comprehensive trust-based plan, I p
 ## Planning For Every Stage of Life
 
 
-Many people put off estate planning, thinking that they don't need it. Some do this because they think they don't have enough of an "estate" to bother planning. Others assume that their assets will simply pass to their spouse, or maybe to their child or children equally. Others think it's something you do as you get older. In reality, everyone, especially those with young children, needs to plan for a time they can't make decisions for themselves. Who makes major medical decisions in case of incapacity? Who takes the kids? What happens to everyone while this gets sorted out? Should a spouse, parent, or child have to go to court to answer these questions, paying thousands in legal fees while leaving everything in limbo until a judge makes a decision?  
+Many people put off estate planning, thinking that they don't need it. Some do this because they think they don't have enough of an "estate" to bother planning. Others assume that their assets will simply pass to their spouse, or maybe to their child or children equally. Others think it's something you do as you get older. In reality, everyone, especially those with young children, needs to plan for a time they can't make decisions for themselves.
+- Who makes major medical decisions in case of incapacity?
+- Who takes the kids? 
+- What happens to everyone while this gets sorted out? 
+- Should a spouse, parent, or child have to go to court to answer these questions, paying thousands in legal fees while leaving everything in limbo until a judge makes a decision?  
 
 An early investment in a comprehensive estate plan solves these issues early, removes confusion, and frees loved ones from having to make impossible decisions. 
 
@@ -41,7 +45,6 @@ An early investment in a comprehensive estate plan solves these issues early, re
 
 Every family has different needs. I offer flexible estate planning options designed to provide the right level of protection and planning for your situation.
 
----
 
 ### Essential Estate Plan
 
@@ -55,7 +58,6 @@ Includes:
 - Advance Directive (also known as a living will)
 - Health Care Power of Attorney
 
----
 
 ### Family Protection Plan
 
@@ -69,7 +71,6 @@ Includes coordinated planning strategies to address:
 - Asset distribution goals
 - Protection for loved ones
 
----
 
 ### Trust Plan
 
@@ -92,23 +93,14 @@ Estate planning should not feel overwhelming. I will guide you through each step
 
 ### My Process
 
----
-
-**1. Strategy Consultation**
-
-I learn about your family, your goals, and your concerns to determine the right planning approach.
-
-**2. Personalized Plan Design**
-
-I create an estate plan tailored to your specific needs and priorities.
-
-**3. Draft Review Meeting**
-
-I walk through your documents, answer questions, and make sure you understand your plan.
-
-**4. Formal Signing & Funding Guidance**
-
-I help complete the execution process and provide guidance on the important steps needed to put your plan into action.
+1. **Strategy Consultation**
+  I learn about your family, your goals, and your concerns to determine the right planning approach.
+2. **Personalized Plan Design**
+  I create an estate plan tailored to your specific needs and priorities.
+3. **Draft Review Meeting**
+  I walk through your documents, answer questions, and make sure you understand your plan.
+4. **Formal Signing & Funding Guidance**
+  I help complete the execution process and provide guidance on the important steps needed to put your plan into action.
 
 ---
 
