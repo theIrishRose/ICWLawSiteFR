@@ -25,8 +25,8 @@ author: Ian Walchesky
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://theirishrose.github.io/ICWLawSiteFR'
-baseurl: ''
+url: 'https://theirishrose.github.io'
+baseurl: '/ICWLawSiteFR'
 
 # This is for the editing function in _/includes/improve_content
 # Leave i empty if your site is not on GitHub/GitHub Pages
