@@ -3,7 +3,7 @@ layout              : page
 sidebar             : right
 header:
   image_fullwidth   : "WalcheskyLawHeader.jpg"
-permalink           : "/about-ian/"
+permalink           : "/about/"
 ---
 
 <div class="wl-about-intro">

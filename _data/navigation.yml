@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: About Ian
-  url: "/about-ian/"
+- title: About
+  url: "/about/"
   side: left
 
 - title: "Practice Areas"
