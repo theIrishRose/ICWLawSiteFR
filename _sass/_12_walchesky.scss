@@ -22,7 +22,7 @@ a:hover { color: var(--wl-blue); }
 #navigation { position: relative; z-index: 100; }
 #navigation .top-bar { background: var(--wl-deep); min-height: 58px; }
 #navigation .top-bar .name h1 a { color: #fff; font-family: Lato, Arial, sans-serif; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
-#navigation .top-bar-section ul li > a { color: #fff; background: var(--wl-deep); font-family: Lato, Arial, sans-serif; font-weight: 700; letter-spacing: .03em; }
+#navigation .top-bar-section ul li > a { color: #fff; background: var(--wl-deep); font-family: Lato, Arial, sans-serif; font-weight: 700; letter-spacing: .03em; padding: 0 16px; line-height: 58px; }
 #navigation .top-bar-section ul li > a:hover,
 #navigation .top-bar-section ul li.active > a { background: #234d66; color: #fff; }
 #navigation .top-bar-section ul.left > li.active > a {
@@ -47,11 +47,6 @@ a:hover { color: var(--wl-blue); }
   background: var(--wl-deep);
   border: 0;
 }
-#navigation .top-bar-section ul li > a {
-  padding: 0 16px;
-  line-height: 58px;
-}
-
 @media only screen and (max-width: 640px) {
   #navigation .top-bar,
   #navigation .top-bar .title-area {
@@ -96,7 +91,7 @@ a:hover { color: var(--wl-blue); }
 .wl-home-hero__inner { width: min(1160px, calc(100% - 40px)); }
 .wl-home-hero__content { max-width: 700px; padding: 72px 0; color: #fff; }
 .wl-home-hero h1 { position: relative; left: -2px; color: #fff; font-size: clamp(3rem, 6vw, 5rem); line-height: .98; margin: 0 0 24px; letter-spacing: -.017em; }
-.wl-home-hero h1 span { color: #b89b5e; }
+.wl-home-hero h1 span { color: var(--wl-gold); }
 .wl-home-hero__lead { max-width: 600px; color: #fff; font-size: 1.3rem; line-height: 1.6; margin-bottom: 30px; }
 .wl-button-group { display: flex; flex-wrap: wrap; gap: 12px; }
 .wl-button { display: inline-block; padding: 14px 22px; border-radius: 2px; font-family: Lato, Arial, sans-serif; font-size: .9rem; font-weight: 700; letter-spacing: .03em; text-decoration: none; transition: transform .15s ease, background .15s ease, color .15s ease; }
@@ -269,17 +264,6 @@ body:not(.frontpage) article p, body:not(.frontpage) article li { line-height: 1
 .wl-text-link { font-family: Lato, Arial, sans-serif; font-weight: 700; text-decoration: none; }
 .wl-cta { max-width: 780px; text-align: center; }
 .wl-cta .wl-button { margin-top: 12px; }
-
-#footer-content { margin-top: 0; background: var(--wl-deep); color: #fff; }
-#footer { background: var(--wl-deep); padding: 56px 0 30px; }
-#footer h5, #footer p, #footer li, #footer a { color: #fff; }
-#footer a:hover { color: #d7c28c; }
-#footer a.wl-button--primary,
-#footer a.wl-button--primary:hover {
-  color: #172c39;
-}
-#subfooter { background: #092231; }
-#subfooter .credits, #subfooter .credits p { color: rgba(255,255,255,.72); }
 
 .wl-nav-brand { float: left; padding: 0 18px 0 0; line-height: 64px; }
 .wl-nav-brand a { color: #fff; font-family: Lato, Arial, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; text-decoration: none; }
@@ -967,12 +951,6 @@ body.frontpage #masthead::before {
   color: var(--wl-gold);
   font-family: Lato, Arial, sans-serif;
   font-size: .75rem;
-  font-weight: 700;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-}
-
-.wl-post h1 {
   max-width: 820px;
   margin: 0 0 16px;
   color: var(--wl-navy);
