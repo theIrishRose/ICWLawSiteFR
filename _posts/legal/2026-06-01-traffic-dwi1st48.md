@@ -81,11 +81,11 @@ If you find yourself charged with a DWI, take these steps immediately:
 ---
 
 **Would you like to discuss a case?**  
-[Schedule a free 15-Minute Discovery Call](#)
+<a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer">Schedule a free 15-Minute Discovery Call</a>
 
 
   <p style="margin-top: 1.75rem;">
-    <a href="{{ site.baseurl }}/contact/" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+    <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
   </p>
 
 

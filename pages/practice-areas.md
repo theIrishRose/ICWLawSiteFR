@@ -21,6 +21,6 @@ permalink           : "/practice-areas/"
   <p>Whether you are dealing with a traffic citation, a criminal charge, an appeal, or questions about protecting your family’s future, the approach is the same: listen carefully, explain the options clearly, and pursue the strategy that best serves your goals.</p>
   
   <p style="margin-top: 1.75rem;">
-    <a href="{{ site.baseurl }}/contact/" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+    <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
   </p>
 </div>
