@@ -3,10 +3,19 @@ layout: default
 format: blog-index
 header: no	
 # Don't index these pages dear Google.
-noindex: true
+title: "Walchesky Law Blog"
+meta_title: "Walchesky Law Blog | North Carolina Legal Insights"
+meta_description: "Practical legal insights from Walchesky Law on traffic law, criminal defense, estate planning, and appeals in North Carolina."
 ---
-<div class="row">
-	<div class="medium-8 columns t30">
+<section class="wl-blog-hero">
+	<div class="wl-blog-hero__inner">
+		<p class="wl-eyebrow">Walchesky Law Blog</p>
+		<p>Practical guidance on North Carolina law, written to help you understand your options and your next step.</p>
+	</div>
+</section>
+
+<main class="wl-blog-index">
+	<div class="wl-blog-index__inner">
 		{% include _pagination.html %}
-	</div><!-- /.medium-7.columns -->
-</div><!-- /.row -->
+	</div>
+</main>
