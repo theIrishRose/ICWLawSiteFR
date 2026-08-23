@@ -18,7 +18,6 @@ breadcrumbs: true
 		<xsl:text disable-output-escaping="yes"><![CDATA[
 		{% include _navigation.html %}
 		{% include _masthead.html %}
-		{% include alert warning=page.disclaimer classes="text-center" %}
 		]]></xsl:text>
 		{{ content }}
 		<xsl:text disable-output-escaping="yes"><![CDATA[
