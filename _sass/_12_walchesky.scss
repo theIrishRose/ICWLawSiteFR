@@ -95,7 +95,7 @@ a:hover { color: var(--wl-blue); }
 }
 .wl-home-hero__inner { width: min(1160px, calc(100% - 40px)); }
 .wl-home-hero__content { max-width: 700px; padding: 72px 0; color: #fff; }
-.wl-home-hero h1 { margin-left:0px; padding-left:0px; color: #fff; font-size: clamp(3rem, 6vw, 5rem); line-height: .98; margin: 0 0 24px; letter-spacing: -.025em; }
+.wl-home-hero h1 { position: relative; left: -2px; color: #fff; font-size: clamp(3rem, 6vw, 5rem); line-height: .98; margin: 0 0 24px; letter-spacing: -.017em; }
 .wl-home-hero h1 span { color: #b89b5e; }
 .wl-home-hero__lead { max-width: 600px; color: #fff; font-size: 1.3rem; line-height: 1.6; margin-bottom: 30px; }
 .wl-button-group { display: flex; flex-wrap: wrap; gap: 12px; }
