@@ -1,0 +1,78 @@
+---
+layout: default
+format: post
+---
+<article class="wl-post" itemscope itemtype="https://schema.org/Article">
+  <header class="wl-post-head">
+    <div class="wl-post-head__inner">
+      {% if page.categories and page.categories != empty %}
+      <span class="wl-post-eyebrow">{{ page.categories | first | escape }}</span>
+      {% endif %}
+      <h1 itemprop="headline">{{ page.title }}</h1>
+      {% if page.teaser %}
+      <p class="wl-post-dek" itemprop="description">{{ page.teaser }}</p>
+      {% endif %}
+      <div class="wl-post-meta">
+        <span class="wl-post-author" itemprop="author">{{ page.author | default: site.author }}</span>
+        {% if page.date %}<span class="wl-post-dot" aria-hidden="true"></span><time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>{% endif %}
+        {% assign word_count = content | number_of_words %}
+        {% assign reading_minutes = word_count | divided_by: 200 %}
+        {% if reading_minutes < 1 %}{% assign reading_minutes = 1 %}{% endif %}
+        <span class="wl-post-dot" aria-hidden="true"></span><span>{{ reading_minutes }} min read</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="wl-post-layout">
+    <aside class="wl-post-rail" aria-label="On this page">
+      <div class="wl-post-rail__label">On this page</div>
+      <nav class="wl-post-rail__links"></nav>
+    </aside>
+
+    <div class="wl-post-content" itemprop="articleBody">
+      {% if page.image.title %}
+      <figure class="wl-post-image">
+        <img src="{{ site.urlimg }}{{ page.image.title }}" alt="{{ page.title | escape_once }}" itemprop="image">
+        {% if page.image.caption %}<figcaption>{{ page.image.caption }}</figcaption>{% endif %}
+      </figure>
+      {% endif %}
+      {{ content }}
+
+      {% if page.tags and page.tags != empty %}
+      <div class="wl-post-tags" aria-label="Tags">
+        {% for tag in page.tags %}<span>{{ tag }}</span>{% endfor %}
+      </div>
+      {% endif %}
+
+      <div class="wl-post-disclaimer">This article is provided for educational purposes only and is not legal advice. Consult an attorney about your specific situation.</div>
+
+      {% if page.previous or page.next %}
+      <nav class="wl-post-nav" aria-label="Post navigation">
+        {% if page.previous %}<a href="{{ site.baseurl }}{{ page.previous.url }}"><span>Previous</span><strong>{{ page.previous.title }}</strong></a>{% else %}<span></span>{% endif %}
+        {% if page.next %}<a class="next" href="{{ site.baseurl }}{{ page.next.url }}"><span>Next</span><strong>{{ page.next.title }}</strong></a>{% endif %}
+      </nav>
+      {% endif %}
+    </div>
+  </div>
+</article>
+
+<script>
+(function () {
+  var content = document.querySelector('.wl-post-content');
+  var links = document.querySelector('.wl-post-rail__links');
+  if (!content || !links) return;
+  var headings = content.querySelectorAll('h2');
+  if (!headings.length) {
+    links.parentNode.style.display = 'none';
+    return;
+  }
+  Array.prototype.forEach.call(headings, function (heading, index) {
+    var id = heading.id || 'section-' + (index + 1);
+    heading.id = id;
+    var item = document.createElement('a');
+    item.href = '#' + id;
+    item.textContent = heading.textContent;
+    links.appendChild(item);
+  });
+}());
+</script>

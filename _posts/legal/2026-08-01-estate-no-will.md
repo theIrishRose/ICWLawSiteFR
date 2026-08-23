@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "What Happens if you Die Without a Will in North Carolina"
 subheadline: Intestacy
 teaser: "If I die, my spouse gets everything, right? Not exactly."
@@ -9,9 +9,7 @@ categories:
     - Estate Planning
 author: Ian Walchesky
 ---
-# Why "My Spouse Gets Everything is a Myth"
-
-> “If I die, everything just goes to my spouse, right?”
+## Why "My Spouse Gets Everything is a Myth"
 
 Many people skip estate planning in North Carolina based on the faulty assumption that if they die without a plan, everything will simply pass to the surviving spouse. This misconception often creates unnecessary headaches—and can lead to family conflict at a time when families should be coming together.
 
@@ -43,7 +41,7 @@ The spouse inherits the entire estate **only** if the decedent dies with:
 
 If there is no surviving spouse but there are children, the estate is divided equally among the children.
 
-> **Note:** This is a simplified overview. Additional rules apply when there are no heirs in these categories. Those situations fall outside the scope of this article.
+ **Note:** This is a simplified overview. Additional rules apply when there are no heirs in these categories. Those situations fall outside the scope of this article.
 
 **Bottom line:** The assumption that everything automatically passes to a surviving spouse is usually incorrect.
 
@@ -79,6 +77,3 @@ Reach out, schedule a **15-minute discovery call**, and let’s get a plan in pl
   <p style="margin-top: 1.75rem;">
    <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
   </p>
-
-
-> "This article is not intended as legal advice, but is provided for educational use only. You should consult an attorney for legal advice."

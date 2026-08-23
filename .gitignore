@@ -1,4 +1,5 @@
 _site
+_site_*_check
 .bundle
 .DS_Store
 .jekyll-cache

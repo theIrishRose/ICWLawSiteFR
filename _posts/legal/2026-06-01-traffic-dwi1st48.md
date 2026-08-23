@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Arrested for DWI in the Charlotte Metro Area? What Happens in the First 48 Hours"
 subheadline: DWI
 teaser: "You're standing outside the jail after having been processed for Driving While Impaired. What happens next?"
@@ -87,6 +87,3 @@ If you find yourself charged with a DWI, take these steps immediately:
   <p style="margin-top: 1.75rem;">
     <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
   </p>
-
-
-> "This article is not intended as legal advice, but is provided for educational use only. You should consult an attorney for legal advice."

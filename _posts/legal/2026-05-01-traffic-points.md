@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "North Carolina’s Two Point System – The Real Cost of a Traffic Ticket"
 subheadline: License and Insurance Points
 teaser: "Did you know that when you get a traffic ticket, two sets of points systems kick into gear? Learn about license points and insurance points."
@@ -59,6 +59,3 @@ Schedule a **15-Minute Discovery Call** before you pay the ticket online.
   <p style="margin-top: 1.75rem;">
     <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
   </p>
-
-
-> "This article is not intended as legal advice, but is provided for educational use only. You should consult an attorney for legal advice."
