@@ -5,6 +5,8 @@ show_meta: false
 title: "Frequently Asked Questions"
 permalink: /faqs/
 ---
+
+
 ## Answers to Common Questions About Working With Walchesky Law
 
 Choosing an attorney is an important decision. You deserve clear answers, realistic expectations, and an understanding of what the legal process may look like.
@@ -13,13 +15,52 @@ Below are answers to some of the questions I frequently receive from clients.
 
 ---
 
-## Do I need a lawyer for my case?
+<div class="wl-faq">
+
+<details class="wl-faq-item">
+  <summary>Do I need a lawyer for my case?</summary>
+  <div class="wl-faq-answer">
+    <p>Even seemingly minor legal matters can have serious consequences. Traffic violations and misdemeanor charges may affect your insurance rates, driver's license, employment, professional opportunities, and future record.</p>
+    <p>An attorney can help identify potential defenses, evaluate the evidence, explain your options, and negotiate with prosecutors when appropriate.</p>
+    <p>The earlier you understand your options, the better positioned you are to make informed decisions.</p>
+  </div>
+</details>
+
+<details class="wl-faq-item">
+  <summary>Do I need a lawyer for my case?</summary>
+  <div class="wl-faq-answer" markdown="1">
 
 Even seemingly minor legal matters can have serious consequences. Traffic violations and misdemeanor charges may affect your insurance rates, driver's license, employment, professional opportunities, and future record.
-
+    
 An attorney can help identify potential defenses, evaluate the evidence, explain your options, and negotiate with prosecutors when appropriate.
 
 The earlier you understand your options, the better positioned you are to make informed decisions.
+
+  </div>
+</details>
+
+<details class="wl-faq-item">
+  <summary>Can every case be appealed?</summary>
+  <div class="wl-faq-answer" markdown="1">
+
+No. Not every unfavorable result can be overturned on appeal.
+
+Appeals are not a second trial. They are limited to specific legal issues, procedural requirements, and standards of review.
+
+Before recommending an appeal, I carefully evaluate:
+
+- The trial record
+- The applicable law
+- Potential legal errors
+- The likelihood of success
+- The costs and benefits of pursuing an appeal
+
+My goal is to help clients make informed decisions—not pursue unnecessary litigation.
+
+  </div>
+</details>
+
+</div>
 
 ---
 
