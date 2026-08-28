@@ -1,6 +1,8 @@
 ---
 layout              : page
 show_meta           : false
+meta_title          : "Walchesky Law PLLC | Appeals"
+meta_description    : "North Carolina appellate lawyer representing clients in criminal and civil appeals, post-conviction relief, sentencing challenges, and appellate litigation."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/appeals/"
@@ -14,10 +16,10 @@ permalink           : "/practice-areas/appeals/"
 
 
 <div class="wl-section-heading" style="margin-bottom: 2.5rem;">
- <p class="wl-eyebrow">Providing appellate representation and post-conviction advocacy for clients seeking review of legal errors and trial outcomes.</p>
+ <p class="wl-eyebrow">Providing appellate representation, co-counsel services, and post-conviction advocacy for clients seeking review of legal errors and trial outcomes</p>
  </div>
 
-## When the Trial Ends, the Legal Process May Not Be Over.
+## When the Trial Ends, the Legal Process May Not Be Over
 
 A trial court decision is not always the final word. When serious legal errors affect the outcome of a case, an appeal or, in the context of a criminal conviction, a post-conviction proceeding, may provide an opportunity to seek review and relief.
 
@@ -36,7 +38,7 @@ Successful appellate advocacy requires:
 - Conducting thorough legal research
 - Preparing persuasive written arguments
 - Presenting focused and compelling legal analysis
-- Educating the appellate court on the background of the case.
+- Educating the appellate court on the background of the case
 
 The strongest appeals are often built around a few important issues. Appeals that raise more than three key issues often lose their persuasiveness and cause courts to look more skeptically at the arguments being made. Careful judgment and strategic focus on the best issues is what matters in appellate advocacy.
 

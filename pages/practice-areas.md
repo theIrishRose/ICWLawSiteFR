@@ -2,6 +2,8 @@
 layout              : page
 show_meta           : false
 title               : "Practice Areas"
+meta_title          : "Walchesky Law PLLC | Practice Areas"
+meta_description    : "Walchesky Law PLLC serves clients in the Charlotte metropolitan area and Lake Norman in the areas of estate planning, criminal defense, traffic defense, and appeals."
 teaser              : "Experienced counsel for traffic matters, criminal defense, estate planning, and appeals throughout North Carolina."
 header:
   image_fullwidth   : "WalcheskyLawHeader.jpg"
@@ -9,7 +11,7 @@ permalink           : "/practice-areas/"
 ---
 
 <div class="wl-section-heading" style="margin-bottom: 2.5rem;">
-  <p class="wl-eyebrow">What I Handle</p>
+  <p class="wl-eyebrow">Areas We Serve</p>
   <h2>Focused counsel for the matters that matter most.</h2>
   <p>Walchesky Law provides strategic representation in four core areas. Each matter receives personal attention and clear guidance from start to finish.</p>
 </div>

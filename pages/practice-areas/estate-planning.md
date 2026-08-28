@@ -1,6 +1,8 @@
 ---
 layout              : page
 show_meta           : false
+meta_title          : "Walchesky Law PLLC | Estate Planning"
+meta_description    : "Estate planning attorney serving Charlotte and Lake Norman families with wills, trusts, powers of attorney, healthcare directives, and comprehensive estate plans."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/estate-planning/"
@@ -14,7 +16,7 @@ permalink           : "/practice-areas/estate-planning/"
 
 
 <div class="wl-section-heading" style="margin-bottom: 2.5rem;">
-<p class="wl-eyebrow">Helping individuals and families create thoughtful estate plans that protect assets and provide clarity for the future.</p>
+<p class="wl-eyebrow">Helping individuals and families create thoughtful estate plans that protect assets and provide clarity for the future</p>
 </div>
 
 ## Protect What Matters Most
@@ -29,11 +31,10 @@ Whether you need a straightforward will or a comprehensive trust-based plan, I p
 
 ## Planning For Every Stage of Life
 
-
 Many people put off estate planning, thinking that they don't need it. Some do this because they think they don't have enough of an "estate" to bother planning. Others assume that their assets will simply pass to their spouse, or maybe to their child or children equally. Others think it's something you do as you get older. In reality, everyone, especially those with young children, needs to plan for a time they can't make decisions for themselves.
 - Who makes major medical decisions in case of incapacity?
-- Who takes the kids? 
-- What happens to everyone while this gets sorted out? 
+- Who takes the kids if something happens to both parents? 
+- What happens to the children while this gets sorted out in court? 
 - Should a spouse, parent, or child have to go to court to answer these questions, paying thousands in legal fees while leaving everything in limbo until a judge makes a decision?  
 
 An early investment in a comprehensive estate plan solves these issues early, removes confusion, and frees loved ones from having to make impossible decisions. 
@@ -47,7 +48,6 @@ Every family has different needs. I offer flexible estate planning options desig
 
 
 ### Essential Estate Plan
-
 
 A foundation for protecting yourself and your loved ones.
 
@@ -73,7 +73,6 @@ Includes coordinated planning strategies to address:
 
 
 ### Trust Plan
-
 
 A more comprehensive approach for individuals and families seeking additional control and protection.
 
@@ -117,7 +116,7 @@ Estate planning can benefit people at every stage of life. I work with:
 
 ---
 
-## Thoughtful Planning. Lasting Peace of Mind.
+## Thoughtful Planning for Lasting Peace of Mind
 
 
 Your estate plan should reflect your values, protect your loved ones, and provide confidence that your wishes will be carried out.

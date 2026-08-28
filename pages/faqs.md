@@ -3,6 +3,8 @@
 layout: page
 show_meta: false
 title: "Frequently Asked Questions"
+meta_title          : "Walchesky Law PLLC | FAQs"
+meta_description    : "Answers to frequently asked questions in North Carolina and Pennsylvania regarding appeals, traffic tickets, representation by attorney, fees, costs."
 permalink: /faqs/
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout              : page
 show_meta           : false
+meta_title          : "Walchesky Law PLLC | Criminal Defense"
+meta_description    : "Charlotte criminal defense attorney representing clients facing misdemeanor and felony charges with experienced, strategic defense throughout the Charlotte Metro and Lake Norman area."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/criminal-defense/"
@@ -13,7 +15,7 @@ permalink           : "/practice-areas/criminal-defense/"
 
 
 <div class="wl-section-heading" style="margin-bottom: 2.5rem;">
-<p class="wl-eyebrow">Defending clients against criminal charges with practical strategy, honest guidance, and focused advocacy.</p>
+<p class="wl-eyebrow">Defending clients against criminal charges with practical strategy, honest guidance, and focused advocacy</p>
 </div>
 
 ## Strategic Defense When It Matters
@@ -26,7 +28,7 @@ With more than **20 years of courtroom experience**, I understand that every cas
 
 ---
 
-## Types of Cases I Handle
+## Types of Cases
 
 I have experience both as a criminal defense attorney and as a prosecutor. A sample of the types of cases I have handled in the past include:
 
@@ -63,7 +65,7 @@ My representation includes:
 
 ---
 
-## Not Every Case Needs a Fight. Every Case Deserves Preparation.
+## Not Every Case Needs a Fight. Every Case Deserves Preparation
 
 Some cases are resolved through negotiation. Others require aggressive litigation and trial advocacy. The key is understanding which strategy best serves your interests.
 
@@ -71,7 +73,7 @@ At **Walchesky Law**, I do not take a one-size-fits-all approach. I provide hone
 
 ---
 
-## Protecting Your Rights. Protecting Your Future.
+## Protecting Your Rights. Protecting Your Future
 
 A criminal accusation can leave you feeling uncertain about what comes next. Having an experienced advocate on your side can provide clarity during a difficult time.
 

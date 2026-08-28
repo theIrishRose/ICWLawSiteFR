@@ -8,14 +8,14 @@ header:
   image_fullwidth   : "WalcheskyLawHeader.jpg"
 permalink           : "/contact/"
 ---
-A 15-minute Discovery Call is an opportunity to briefly discuss your situation, determine whether Walchesky Law may be able to help, and identify the appropriate next steps.
+Schedule a 15-minute Discovery Call is an opportunity to briefly discuss your situation, determine whether Walchesky Law may be able to help, and identify the appropriate next steps.
 
 No pressure and no obligation. Just clear information so you can make an informed decision.
 
 
   <p style="margin-top: 1.75rem;">
     <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" 
-  target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+  target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15 Minute Discovery Call</a>
   </p>
 
 ### Contact Information

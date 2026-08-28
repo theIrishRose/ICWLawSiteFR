@@ -1,6 +1,8 @@
 ---
 layout              : page
 show_meta           : false
+meta_title          : "Walchesky Law PLLC | Traffic Law & Defense"
+meta_description    : "Charlotte traffic lawyer representing clients in speeding, reckless driving, DWI, license and other traffic tickets and matters throughout Charlotte and Lake Norman."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/traffic-law/"
@@ -13,20 +15,22 @@ permalink           : "/practice-areas/traffic-law/"
 
 
 <div class="wl-section-heading" style="margin-bottom: 2.5rem;">
-<p class="wl-eyebrow">Providing traffic defense representation throughout the Charlotte metro area for speeding tickets, reckless driving charges, license issues, and other traffic violations.</p>
+<p class="wl-eyebrow">Representing Providing traffic defense representation throughout the Charlotte metro area for speeding tickets, reckless driving charges, license issues, and other traffic violations</p>
 </div>
 
-## Protect Your Record. Protect Your License.
+## Protect Your Record & Protect Your License
 
-A traffic citation may seem like a minor inconvenience, but the consequences can extend far beyond a court date. Points on your license, increased insurance rates, employment concerns, and potential license consequences can all create lasting problems.
+Got a traffic ticket in North Carolina? Don't just pay it! Let an experienced traffic lawyer review your options first. When I was a prosecutor, I used to run traffic court for the DA's office. As a result, I know when traffic matters can be negotiated for a better resolution. 
+
+A traffic citation may seem like a minor inconvenience, but the consequences can extend far beyond a court date. Points on your license, increased insurance rates, employment concerns, and potential license consequences can all create lasting problems. 
 
 At **Walchesky Law**, I help drivers throughout the Charlotte metro area and Lake Norman navigate traffic matters with clear advice, efficient representation, and a strategy focused on protecting your driving record and your future.
 
 ---
 
-## Traffic Matters I Handle
+## Traffic Matters I Can Help With
 
-I represent clients facing a wide range of traffic-related charges, including:
+I represent clients facing a wide range of traffic-related tickets and charges, including:
 
 - Speeding violations
 - Careless & reckless driving
@@ -54,7 +58,7 @@ Understanding your options before making a decision can help protect your abilit
 
 ---
 
-## Straightforward Representation. Clear Expectations.
+## Straightforward Representation & Clear Expectations
 
 At **Walchesky Law**, we believe clients deserve to know what to expect from the beginning. We provide:
 
@@ -76,7 +80,7 @@ Contact **Walchesky Law** to discuss your options and learn how I can help prote
 
 
   <p style="margin-top: 1.75rem;">
-    <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+    <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Get Your Traffic Ticket Reviewed</a>
   </p>
 
 
