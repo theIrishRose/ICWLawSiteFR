@@ -1,8 +1,8 @@
 ---
 layout              : page
 show_meta           : false
-meta_title          : "Walchesky Law PLLC | Estate Planning"
-meta_description    : "Estate planning attorney serving Charlotte and Lake Norman families with wills, trusts, powers of attorney, healthcare directives, and comprehensive estate plans."
+meta_title          : "Estate Planning Attorney Charlotte & Lake Norman | Wills, Trusts & More"
+meta_description    : "Charlotte Metro and Lake Norman estate planning attorney helping families with wills, trusts, powers of attorney, healthcare directives, and comprehensive plans. Clear guidance and lasting peace of mind. Protect your assets. Protect your family."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/estate-planning/"

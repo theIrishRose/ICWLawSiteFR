@@ -1,8 +1,8 @@
 ---
 layout              : page
 show_meta           : false
-meta_title          : "Walchesky Law PLLC | Appeals"
-meta_description    : "North Carolina appellate lawyer representing clients in criminal and civil appeals, post-conviction relief, sentencing challenges, and appellate litigation."
+meta_title          : "North Carolina Appeals Lawyer | Criminal & Civil Appeals – Walchesky Law"
+meta_description    : "North Carolina appellate attorney handling criminal and civil appeals, post-conviction relief, and sentencing challenges. Experienced advocacy when a trial is not the end of the matter."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/appeals/"

@@ -3,8 +3,8 @@
 layout: page
 show_meta: false
 title: "Frequently Asked Questions"
-meta_title          : "Walchesky Law PLLC | FAQs"
-meta_description    : "Answers to frequently asked questions in North Carolina and Pennsylvania regarding appeals, traffic tickets, representation by attorney, fees, costs."
+meta_title          : "FAQs | Walchesky Law – Traffic, Criminal Defense & Estate Planning in NC"
+meta_description    : "Common questions about traffic tickets, criminal defense, estate planning, appeals, fees, and working with attorney Ian Walchesky in the Charlotte Metro and Lake Norman area."
 permalink: /faqs/
 ---
 

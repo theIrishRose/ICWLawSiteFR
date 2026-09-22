@@ -1,8 +1,8 @@
 ---
 layout              : page
 title               : "Let's start with a conversation"
-meta_title          : "Contact Walchesky Law | Schedule a Discovery Call"
-meta_description    : "Contact Walchesky Law in Huntersville, NC. Schedule a 15-minute discovery call to discuss traffic, criminal defense, estate planning, or appeals matters."
+meta_title          : "Contact Walchesky Law | Huntersville, NC – Schedule a Discovery Call"
+meta_description    : "Contact Walchesky Law in Huntersville, NC. Schedule a free 15-minute discovery call to discuss traffic tickets, criminal charges, estate planning, or appeals in the Charlotte and Lake Norman area."
 teaser              : ""
 header:
   image_fullwidth   : "WalcheskyLawHeader.jpg"

@@ -2,8 +2,8 @@
 layout              : page
 show_meta           : false
 title               : "Walchesky Law"
-meta_title          : "About Walchesky Law PLLC"
-meta_description    : "Ian Walchesky is an experienced North Carolina attorney with more than 20 years of courtroom and boutique-firm experience in criminal defense, appeals, traffic law, and estate planning."
+meta_title          : "About Ian Walchesky | North Carolina Attorney – Charlotte & Lake Norman"
+meta_description    : "Ian Walchesky is a North Carolina attorney with 20+ years of courtroom and boutique-firm experience in criminal defense, traffic law, estate planning, and appeals. Serving clients across the Charlotte Metro and Lake Norman."
 sidebar             : right
 header:
   image_fullwidth   : "WalcheskyLawHeader.jpg"

@@ -1,8 +1,8 @@
 ---
 layout              : page
 show_meta           : false
-meta_title          : "Walchesky Law PLLC | Criminal Defense"
-meta_description    : "Charlotte criminal defense attorney representing clients facing misdemeanor and felony charges with experienced, strategic defense throughout the Charlotte Metro and Lake Norman area."
+meta_title          : "Charlotte Criminal Defense Attorney | Misdemeanor & Felony Cases – Walchesky Law"
+meta_description    : "Experienced Charlotte criminal defense attorney representing clients facing misdemeanor and felony charges in the Charlotte Metro and Lake Norman area. Strategic, personal representation from start to finish."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/criminal-defense/"

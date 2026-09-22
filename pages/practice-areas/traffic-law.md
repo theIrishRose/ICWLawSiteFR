@@ -1,8 +1,8 @@
 ---
 layout              : page
 show_meta           : false
-meta_title          : "Walchesky Law PLLC | Traffic Law & Defense"
-meta_description    : "Charlotte traffic lawyer representing clients in speeding, reckless driving, DWI, license and other traffic tickets and matters throughout Charlotte and Lake Norman."
+meta_title          : "Charlotte Traffic Lawyer | Speeding, DWI & Ticket Defense – Walchesky Law"
+meta_description    : "Charlotte and Lake Norman traffic lawyer helping with speeding tickets, reckless driving, DWI, license issues, and other traffic charges. Flat-fee options available. Protect your record."
 header:
     image_fullwidth  : "WalcheskyLawHeader.jpg"
 permalink           : "/practice-areas/traffic-law/"
@@ -15,7 +15,7 @@ permalink           : "/practice-areas/traffic-law/"
 
 
 <div class="wl-section-heading" style="margin-bottom: 2.5rem;">
-<p class="wl-eyebrow">Representing Providing traffic defense representation throughout the Charlotte metro area for speeding tickets, reckless driving charges, license issues, and other traffic violations</p>
+<p class="wl-eyebrow">Providing traffic defense representation throughout the Charlotte metro area for speeding tickets, reckless driving charges, license issues, and other traffic violations</p>
 </div>
 
 ## Protect Your Record & Protect Your License
