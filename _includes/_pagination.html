@@ -16,8 +16,6 @@
       {% if post.teaser %}<p class="wl-blog-card__excerpt" itemprop="description">{{ post.teaser | strip_html | escape }}</p>{% elsif post.meta_teaser %}<p class="wl-blog-card__excerpt" itemprop="description">{{ post.meta_teaser | strip_html | escape }}</p>{% endif %}
       <div class="wl-blog-card__meta">
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-        <span aria-hidden="true">·</span>
-        <span>{{ post.author | default: site.author }}</span>
       </div>
       <a class="wl-blog-card__read" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}">Read article <span aria-hidden="true">→</span></a>
     </div>

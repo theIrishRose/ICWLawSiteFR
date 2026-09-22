@@ -22,6 +22,9 @@
 - title: "Blog"
   url: "/blog/"
   side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/all/"
 
 - title: "Client Login"
   url: "https://clients.clio.com/login"

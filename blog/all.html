@@ -1,0 +1,44 @@
+---
+layout: default
+format: blog-index
+title: "All Articles"
+teaser: "Browse every article from Blog."
+permalink: /blog/all/
+---
+
+<section class="wl-blog-hero">
+  <div class="wl-blog-hero__inner">
+    <p class="wl-eyebrow">Walchesky Law Blog</p>
+    {% if page.teaser %}<p>{{ page.teaser }}</p>{% endif %}
+  </div>
+</section>
+
+<main class="wl-blog-index">
+  <div class="wl-blog-index__inner wl-blog-all">
+    {% assign posts_by_category = site.posts 
+         | where_exp: "post", "post.categories.size > 0" 
+         | group_by_exp: "post", "post.categories.first" 
+         | sort: "name" %}
+
+    {% for category in posts_by_category %}
+    <section class="wl-blog-category" aria-labelledby="category-{{ category.name | slugify }}">
+      <h2 id="category-{{ category.name | slugify }}">
+        {{ category.name }}
+        <span class="wl-category-count">({{ category.items.size }})</span>
+      </h2>
+
+      <ul class="wl-blog-compact-list">
+        {% assign category_posts = category.items | sort: "date" | reverse %}
+        {% for post in category_posts %}
+        <li>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%b %-d, %Y" }}
+          </time>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endfor %}
+  </div>
+</main>
