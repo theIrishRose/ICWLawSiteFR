@@ -7,6 +7,7 @@ meta_teaser: "People have a common misconception about traffic tickets in North 
 breadcrumb: false
 categories:
     - Traffic Law
+permalink: /traffic-law/traffic-points/
 author: Ian Walchesky
 ---
 

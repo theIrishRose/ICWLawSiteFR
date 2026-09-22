@@ -7,6 +7,7 @@ meta_teaser: "Meta Teaser: The story of Walchesky Law was born in litigation, wa
 breadcrumb: false
 categories:
     - About the Firm
+permalink: /about-the-firm/law-firm-starts/
 author: Ian Walchesky
 ---
 

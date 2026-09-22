@@ -7,6 +7,7 @@ meta_teaser: "The SECURE Act impacts IRA trusts and other trusts that are inheri
 breadcrumb: false
 categories:
     - Estate Planning
+permalink: /estate-planning/trust-taxes/
 author: Ian Walchesky
 ---
 

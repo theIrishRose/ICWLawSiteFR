@@ -7,6 +7,7 @@ meta_teaser: "People rarely know what the actual process of getting arrested for
 breadcrumb: false
 categories:
     - Traffic Law
+permalink: /traffic-law/traffic-dwi1st48/
 author: Ian Walchesky
 ---
 

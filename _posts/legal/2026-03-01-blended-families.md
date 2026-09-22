@@ -7,6 +7,7 @@ meta_teaser: "Blended families require detailed estate planning to make sure tha
 breadcrumb: false
 categories:
     - Estate Planning
+permalink: /estate-planning/blended-families/
 author: Ian Walchesky
 ---
 

@@ -7,6 +7,7 @@ meta_teaser: "Should you leave inheritance in trust for the protection of adult 
 breadcrumb: false
 categories:
     - Estate Planning
+permalink: /estate-planning/trust-adult-children/
 author: Ian Walchesky
 ---
 

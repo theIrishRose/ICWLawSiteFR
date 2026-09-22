@@ -7,6 +7,7 @@ meta_teaser: "People charged with misdemeanor offenses in North Carolina often t
 breadcrumb: false
 categories:
     - Criminal Law
+permalink: /criminal-law/lawyer-misdemeanor/
 author: Ian Walchesky
 ---
 

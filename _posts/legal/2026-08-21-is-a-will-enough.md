@@ -7,6 +7,7 @@ meta_teaser: "Is a Will enough? Beneficiary designations, trust funding, aren't 
 breadcrumb: false
 categories:
     - Estate Planning
+permalink: /estate-planning/is-a-will-enough/
 author: Ian Walchesky
 ---
 

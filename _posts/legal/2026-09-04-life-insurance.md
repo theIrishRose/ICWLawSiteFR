@@ -7,6 +7,7 @@ meta_teaser: "Over time, designation of beneficiaries in life insurance policies
 breadcrumb: false
 categories:
     - Estate Planning
+permalink: /estate-planning/life-insurance/
 author: Ian Walchesky
 ---
 

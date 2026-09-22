@@ -7,6 +7,7 @@ meta_teaser: "What happens if Spouses Die at the Same Time or Days Apart? Carefu
 breadcrumb: false
 categories:
     - Estate Planning
+permalink: /estate-planning/joint-trust-close-death/
 author: Ian Walchesky
 ---
 

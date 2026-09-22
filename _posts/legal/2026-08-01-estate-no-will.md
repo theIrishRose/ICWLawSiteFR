@@ -7,6 +7,7 @@ meta_teaser: "When you die without a will in North Carolina, the state has its o
 breadcrumb: false
 categories:
     - Estate Planning
+permalink: /estate-planning/estate-no-will/
 author: Ian Walchesky
 ---
 ## Why "My Spouse Gets Everything is a Myth"
