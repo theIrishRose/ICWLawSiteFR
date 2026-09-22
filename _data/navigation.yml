@@ -19,9 +19,18 @@
   - title: "Appeals"
     url: "/practice-areas/appeals/"
     
-- title: Blog
+- title: "Blog"
   url: "/blog/"
   side: left
+
+- title: "Client Login"
+  url: "https://clients.clio.com/login"
+  side: right
+
+
+- title: "Make a Payment"
+  url: "https://app.clio.com/link/v2/2/2/e9e003b898d329da8fd29a342c7a4758?hmac=61035acf7cb6a9a1fb82efce564addf2e5d4afb3986a4b1569cbc7ad7b142857"
+  side: right
 
 - title: "FAQs"
   url: "/faqs/"
