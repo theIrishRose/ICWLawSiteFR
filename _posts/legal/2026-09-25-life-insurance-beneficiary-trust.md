@@ -13,7 +13,7 @@ author: Ian Walchesky
 
 You bought life insurance to care for the people you love. But should the money go directly to your spouse or through your trust? The answer starts with what your family needs the money to do, not a rule that one choice is always better. Read more...
 
-## Should I Name My Spouse or My Trust as My Life Insurance Beneficiary?
+# Should I Name My Spouse or My Trust as My Life Insurance Beneficiary?
 You bought the policy because someone depends on you. That was an act of care, even if it felt like one more form to finish between work, dinner, and everything else.
 
 Now you have a trust, and a question: should your life insurance beneficiary still be your spouse?
@@ -122,7 +122,7 @@ Schedule a complimentary 15-minute discovery call:
     <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
   </p>
 
-This article is a service of Walcheksy Law PLLC, a Personal Family Lawyer® Firm. We don’t just draft documents; we ensure you make informed and empowered decisions about life and death, for yourself and the people you love. That’s why we offer a Life & Legacy Planning® Session, during which you will get more financially organized than you’ve ever been before and make all the best choices for the people you love. You can begin by calling our office today to schedule a Life & Legacy Planning Session.
+This article is a service of Walchesky Law PLLC, a Personal Family Lawyer® Firm. We don’t just draft documents; we ensure you make informed and empowered decisions about life and death, for yourself and the people you love. That’s why we offer a Life & Legacy Planning® Session, during which you will get more financially organized than you’ve ever been before and make all the best choices for the people you love. You can begin by calling our office today to schedule a Life & Legacy Planning Session.
 
 The content is sourced from Personal Family Lawyer for use by Personal Family Lawyer firms, a source believed to be providing accurate information. This material was created for educational and informational purposes only and is not intended as ERISA, tax, legal, or investment advice. If you are seeking legal advice specific to your needs, such advice services must be obtained on your own, separate from this educational material.
 © 2026 Personal Family Lawyer, all rights reserved. Licensed for use by member firms.
