@@ -7,7 +7,7 @@ meta_teaser: "Should your spouse or trust receive your life insurance? Learn wha
 breadcrumb: false
 categories:
     - Estate Planning
-permalink: /estate-planning/joint-trust-close-death/
+permalink: /estate-planning/life-insurance-beneficiary-trust/
 author: Ian Walchesky
 ---
 
@@ -88,9 +88,9 @@ And your backup choices need updating as life changes. A child turning 18 does n
 
 Your policy owner and your beneficiary have different roles. The owner holds contractual rights, such as the ability to change a revocable beneficiary designation. The beneficiary receives the death benefit when it becomes payable.
 
-Naming your existing living trust as beneficiary does not, by itself, move the policy outside your taxable estate. Federal estate-tax rules consider ownership rights in the policy, among other factors. A separately designed irrevocable life insurance trust involves different decisions and should not be confused with typing your living trust’s name on a form.
+Naming your existing living trust as beneficiary does not, by itself, move the policy outside your taxable estate. <a href="https://www.law.cornell.edu/cfr/text/26/20.2042-1" target="_blank" rel="noopener noreferrer">Federal estate-tax</a> rules consider ownership rights in the policy, among other factors. A separately designed irrevocable life insurance trust involves different decisions and should not be confused with typing your living trust’s name on a form.
 
-There is another distinction worth keeping straight: income tax and estate tax are not the same. The IRS says death benefits are generally excluded from a beneficiary’s gross income, although exceptions apply and interest paid on proceeds is taxable.
+There is another distinction worth keeping straight: income tax and estate tax are not the same. <a href="https://www.irs.gov/faqs/interest-dividends-other-types-of-income/life-insurance-disability-insurance-proceeds/life-insurance-disability-insurance-proceeds" target="_blank" rel="noopener noreferrer">The IRS says</a> death benefits are generally excluded from a beneficiary’s gross income, although exceptions apply and interest paid on proceeds is taxable.
 
 You do not need to master those rules before asking for help. You do need someone to notice which questions apply to you.
 
@@ -126,4 +126,3 @@ This article is a service of Walcheksy Law PLLC, a Personal Family Lawyer® Firm
 
 The content is sourced from Personal Family Lawyer for use by Personal Family Lawyer firms, a source believed to be providing accurate information. This material was created for educational and informational purposes only and is not intended as ERISA, tax, legal, or investment advice. If you are seeking legal advice specific to your needs, such advice services must be obtained on your own, separate from this educational material.
 © 2026 Personal Family Lawyer, all rights reserved. Licensed for use by member firms.
----
