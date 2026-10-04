@@ -3,7 +3,7 @@ layout: post
 title:  "You Made a Will. Here's What it Can't Do"
 subheadline: "Is a Will Enough? Your Post-Will Planning Checklist"
 teaser: "Making a will is step one. Here's what most families miss after they sign, and what actually protects the people you love." 
-meta_teaser: "Is a Will enough? Beneficiary designations, trust funding, aren't covered by a will. Similarly, a will does not plan for potential incapcaity. Contact me to update your estate plan so that it is comprehensive. You did it. You made a will. That matters more than you know. But here's what most families don't realize until it's too late: making a will is the first step in protecting your family, not the last. Here's the checklist that comes next. "
+meta_teaser: "Is a Will enough? Beneficiary designations, trust funding, aren't covered by a will. Similarly, a will does not plan for potential incapacity. Contact me to update your estate plan so that it is comprehensive. You did it. You made a will. That matters more than you know. But here's what most families don't realize until it's too late: making a will is the first step in protecting your family, not the last. Here's the checklist that comes next. "
 breadcrumb: false
 categories:
     - Estate Planning
