@@ -13,11 +13,11 @@ author: Ian Walchesky
 
 If you have ever been in a North Carolina courtroom for a traffic ticket or a minor charge, you may have heard a lawyer or a judge say the words “prayer for judgment continued,” or simply “PJC.” It sounds like something out of a different century, and it confuses most people the first time they hear it.
 
-The short version: a PJC is a way for a judge to find you responsible or guilty without imposing the usual punishment right away. It can be genuinely helpful, particularly for insurance and your driving record, but it is not a free pass, and it does not make a charge disappear. Here is how it works in plain language.
+The short version: a PJC is a way for a judge to find you responsible (if an infraction) or guilty without imposing the usual punishment right away. It can be genuinely helpful, particularly for insurance and your driving record, but it is not a free pass, and it does not make a charge disappear. Here is how it works in plain language.
 
 ## What Is a Prayer for Judgment Continued?
 
-In a criminal or traffic case, there are two separate steps. First, you are found guilty or responsible, or you plead guilty or no contest. Second, the court imposes a sentence and enters judgment: the fine, the jail time, the probation, and so on.
+In a criminal or traffic case, there are two separate steps. First, you are found guilty or responsible by the judge, or you plead guilty or no contest. Second, the court imposes a sentence and enters judgment: the fine, the jail time, and/or the probation.
 
 With a PJC, the judge takes the first step and holds off on the second. The finding or plea is on the books, but no sentence is imposed at that time. The insurance industry’s own rule describes it this way: “a determination of guilt by a jury or a court though no sentence has been imposed.”
 
@@ -31,7 +31,7 @@ People usually want a PJC for one reason: to keep a ticket from hurting their in
 
 **Your driver’s license.** For DMV purposes, a PJC generally is not treated as a conviction, with two important exceptions. A third or subsequent PJC within any five-year period counts as a conviction. And any PJC counts as a conviction if you hold a commercial driver’s license or the offense occurred in a commercial motor vehicle.
 
-**Future criminal cases.** This is the one that surprises people. For sentencing, North Carolina treats a person as convicted once they have been adjudged guilty or entered a plea of guilty or no contest, even if judgment was never entered. The Court of Appeals has applied that rule to PJCs, so a PJC can count toward your prior record level if you are charged with something later.
+**Future criminal cases.** This is the one that surprises people. For sentencing, North Carolina treats a person as convicted once they have been adjudged guilty or entered a plea of guilty or no contest, even if judgment was never entered. The Court of Appeals has applied that rule to PJCs, so a PJC can count toward your prior record level if you are charged with something later. That means even though you odn't incur a penalty when you are given the PJC, it can impact you later.
 
 **Court costs.** A PJC does not necessarily mean you pay nothing. Court costs can still be assessed, so ask what the total will be before you agree to this route.
 
@@ -41,7 +41,7 @@ People usually want a PJC for one reason: to keep a ticket from hurting their in
 
 A PJC is most commonly used in minor traffic cases, such as an ordinary speeding ticket, but it is not limited to traffic court. It can come up in other low-level cases too.
 
-There is no guarantee in any of them. The judge decides whether to grant a PJC, and the facts, your record, and the seriousness of the offense all matter. Some offenses, particularly the more serious traffic violations, are generally treated as off the table, so do not assume a PJC is available just because it worked for a friend.
+There is no guarantee in any of them. The judge decides whether to grant a PJC, and the facts, your record, and the seriousness of the offense all matter. Some offenses, particularly the more serious traffic violations, are generally treated as off the table, so do not assume a PJC is available just because it worked for a friend. Additionally, in many cases the PJC will only be an option if the prosecutor agrees, though I have seen judges impose a PJC over the government's objection. 
 
 For more serious cases, state law puts a leash on how long a PJC can last. A court may not dispose of a Class B1, B2, C, D, or E felony with a PJC that runs longer than 12 months. The judge must set a deadline for the State to ask for judgment, and any extension must be in the interest of justice and is limited to one additional 12-month period. In other words, a PJC in a serious felony case is a short pause, not an open-ended one.
 
@@ -62,15 +62,6 @@ For more serious cases, state law puts a leash on how long a PJC can last. A cou
 Sometimes yes, sometimes no, and sometimes there is a better option. A PJC can be a smart way to resolve a minor ticket without insurance consequences. But it uses up protection you may want later, it can still carry costs, and in some cases a dismissal or a reduction to a lesser charge would serve you better.
 
 The right answer depends on your charge, your driving and criminal history, who else is in your household, and whether you hold a commercial license. A short conversation about those facts usually makes the decision clear, and sometimes the honest advice is that you do not need a lawyer at all.
-
-## Sources
-
-- [N.C.G.S. 15A-1331.2, Prayer for judgment continued for a period of time](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_15A/GS_15A-1331.2.pdf)
-- [N.C.G.S. 15A-1331, Convicted defined for sentencing](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_15A/GS_15A-1331.pdf)
-- [N.C.G.S. 20-4.01, Definitions (“conviction”)](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_20/GS_20-4.01.pdf)
-- [N.C. Rate Bureau, Circular Letter A-25-4, SDIP revisions (Rule 5)](https://www.ncrb.org/Portals/0/ncrb/circular%20letters/automobile/2025/A-25-4%20Rule%205_%20SDIP%20Revisions.pdf?ver=O6SkyxD7p57G0I6aSXIq3Q%3D%3D)
-- [N.C. Department of Insurance, Safe Driver Incentive Plan](https://www.ncdoi.gov/consumers/auto-and-vehicle-insurance/safe-driver-incentive-plan)
-- [UNC School of Government, Prayer for Judgment Continued](https://nccriminallaw.sog.unc.edu/prayer-for-judgment-continued/)
 
 ---
 
