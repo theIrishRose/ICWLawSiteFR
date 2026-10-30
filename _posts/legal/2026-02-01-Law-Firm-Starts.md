@@ -3,7 +3,7 @@ layout: post
 title:  "Why I am Here"
 subheadline: The Story of Walchesky Law
 teaser: "Walchesky Law was founded on the premise of helping people before problems arise."
-meta_teaser: "Meta Teaser: The story of Walchesky Law was born in litigation, watching clients see their family legacy pass to step-siblings due to the parents' failure to properly preserve the assets for their natural children."
+meta_teaser: "The story of Walchesky Law was born in litigation, watching clients see their family legacy pass to step-siblings due to the parents' failure to properly preserve the assets for their natural children."
 breadcrumb: false
 categories:
     - About the Firm
