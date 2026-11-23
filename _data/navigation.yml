@@ -39,6 +39,10 @@
   url: "/faqs/"
   side: right
 
+- title: "Events"
+  url: "/events/"
+  side: right
+
 - title: "Contact"
   url: "/contact/"
   side: right
