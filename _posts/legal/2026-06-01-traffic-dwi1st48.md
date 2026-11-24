@@ -86,5 +86,5 @@ Schedule a **15-Minute Discovery Call** to talk through your charge.
 
 
   <p style="margin-top: 1.75rem;">
-    <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+    <a href="https://app.lawmatics.com/appointment-calendar/NDcxMTA=%7CWyI0ODEwNCJd%7CInpvb20i%7CWyJwaG9uZU51bWJlciIsImFkZHJlc3MiXQ==" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
   </p>

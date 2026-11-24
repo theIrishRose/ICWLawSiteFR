@@ -104,7 +104,7 @@ As a Personal Family Lawyer firm, I help you create a Life & Legacy Plan that co
 
 Schedule a complimentary 15-minute discovery call and let’s find out where you stand: 
 <p style="margin-top: 1.75rem;">
-    <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+    <a href="https://app.lawmatics.com/appointment-calendar/NDcxMTA=%7CWyI0ODEwNCJd%7CInpvb20i%7CWyJwaG9uZU51bWJlciIsImFkZHJlc3MiXQ==" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
   </p>
 
 This article is a service of Walchesky Law PLLC, a Personal Family Lawyer® Firm. We don’t just draft documents; we ensure you make informed and empowered decisions about life and death, for yourself and the people you love. That's why we offer a Life & Legacy Planning® Session, during which you will get more financially organized than you’ve ever been before and make all the best choices for the people you love. You can begin by calling our office today to schedule a Life & Legacy Planning Session.

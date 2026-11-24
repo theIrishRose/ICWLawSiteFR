@@ -40,6 +40,12 @@ Many people put off estate planning, thinking that they don't need it. Some do t
 An early investment in a comprehensive estate plan solves these issues early, removes confusion, and frees loved ones from having to make impossible decisions. 
 
 ---
+<!-- Guardian Checklist callout -->
+<div class="panel radius" style="border-left: 5px solid #2a8b8b; background: #f4f8fb;">
+  <h3>Have young kids? Start here.</h3>
+  <p>"Who takes the kids?" is the question parents ask me most. My free <strong>Guardian &amp; Kids Protection Checklist</strong> walks you through 10 steps to make sure your children are cared for by the people you choose. It takes about 10 minutes.</p>
+  <p><a href="/guardian-checklist/" class="button radius">Get the free checklist &rarr;</a></p>
+</div>
 
 ## Estate Planning Solutions Designed Around Your Goals
 
@@ -134,5 +140,5 @@ Contact **Walchesky Law** to discuss your goals and learn how I can help protect
 
 
   <p style="margin-top: 1.75rem;">
-    <a href="https://walcheskylaw.cliogrow.com/book/c2697f220b9074c83d780854d09b9cd0" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
+    <a href="https://app.lawmatics.com/appointment-calendar/NDcxMTA=%7CWyI0ODEwNCJd%7CInpvb20i%7CWyJwaG9uZU51bWJlciIsImFkZHJlc3MiXQ==" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>
   </p>

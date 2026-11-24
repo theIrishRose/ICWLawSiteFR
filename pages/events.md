@@ -15,6 +15,7 @@ At Walchesky Law, we believe everyone deserves access to reliable information be
 Whether you're planning ahead, caring for aging parents, or navigating a recent life change, these webinars provide practical information and answers to help you make informed decisions.
 **Reserve your spot below. Registration is free.**
 
+## EVENTS COMING SOON
 
 **Can't attend live?**
 Register anyway, and we'll let you know if a replay is available.
