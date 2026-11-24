@@ -15,10 +15,14 @@ At Walchesky Law, we believe everyone deserves access to reliable information be
 Whether you're planning ahead, caring for aging parents, or navigating a recent life change, these webinars provide practical information and answers to help you make informed decisions.
 **Reserve your spot below. Registration is free.**
 
-## EVENTS COMING SOON
+## Events coming soon
+
+My next webinar date will be posted here soon. In the meantime, start with my free Guardian & Kids Protection Checklist, the same 10 steps I cover with young families.
+
+{% include _guardian-checklist-cta.html heading="Get the free checklist" text="10 practical steps to make sure your children are cared for by the people you choose." %}
 
 **Can't attend live?**
-Register anyway, and we'll let you know if a replay is available.
+Register anyway, and I'll let you know if a replay is available.
 
 
 

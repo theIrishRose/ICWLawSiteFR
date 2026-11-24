@@ -72,6 +72,9 @@ Don’t leave these critical decisions to the courts or to state statutes.
 ---
 
 **Ready to take control?**  
+
+{% include _guardian-checklist-cta.html heading="Have minor children?" text="Without a will, North Carolina law decides more than most parents expect. My free Guardian &amp; Kids Protection Checklist walks you through the 10 decisions that matter most." %}
+
 Reach out, schedule a **15-minute discovery call**, and let’s get a plan in place.
 
 

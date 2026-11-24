@@ -94,6 +94,8 @@ Choose one person who may need to help you and arrange a brief conversation. Bef
 
 I help you create a Life & Legacy Plan that connects your decisions with the people and purposes behind them. I don’t use a one-size-fits-all answer for who should know what. The relationship doesn’t end when the documents are signed. When you’re deciding who to tell, what to share, or whether someone’s role should change, you call me and we talk it through before you decide. And when something happens, your family knows to call me.
 
+{% include _guardian-checklist-cta.html %}
+
 Schedule a complimentary 15-minute discovery call:
 
 <p style="margin-top: 1.75rem;">

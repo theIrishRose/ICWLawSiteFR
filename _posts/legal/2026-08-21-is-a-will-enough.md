@@ -97,6 +97,9 @@ When I sit down with a client for a Life & Legacy Planning Session, I am looking
 
 If you made a will this month, you did something real. Now take the next step.
 As your Personal Family Lawyer, I offer a Life & Legacy Planning Session where I review everything you have in place and everything that's still missing. Most families leave that session more financially organized than they've ever been, with a clear picture of what's in place and what needs to happen next.
+
+{% include _guardian-checklist-cta.html heading="Have young kids?" text="A will is a start. My free Guardian &amp; Kids Protection Checklist shows the other nine decisions parents need to make." %}
+
 Schedule a complimentary **15-minute discovery call** and let's find out where you actually stand: 
 <p style="margin-top: 1.75rem;">
     <a href="https://app.lawmatics.com/appointment-calendar/NDcxMTA=%7CWyI0ODEwNCJd%7CInpvb20i%7CWyJwaG9uZU51bWJlciIsImFkZHJlc3MiXQ==" target="_blank" rel="noopener noreferrer" class="wl-button wl-button--primary">Schedule a 15-Minute Discovery Call</a>

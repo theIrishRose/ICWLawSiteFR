@@ -84,6 +84,17 @@ The goal is to make sure we understand your situation, to see if we would be a g
 </details>
 
 <details class="wl-faq-item">
+  <summary>I have young children. Where should I start?</summary>
+  <div class="wl-faq-answer" markdown="1">
+
+Start with two questions: who would care for your kids if something happened to you, and who would manage their money. My free [Guardian & Kids Protection Checklist]({{ site.baseurl }}/guardian-checklist/) walks you through both in about 10 minutes.
+
+If it turns up a few gaps, a 15-minute discovery call is a good next step.
+
+  </div>
+</details>
+
+<details class="wl-faq-item">
   <summary>Will I meet with you directly?</summary>
   <div class="wl-faq-answer" markdown="1">
 

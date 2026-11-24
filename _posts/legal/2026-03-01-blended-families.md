@@ -59,6 +59,8 @@ If you have a blended family and want to ensure an estate plan that works, sched
 ---
 
 **Need to plan for a blended family?**  
+{% include _guardian-checklist-cta.html %}
+
 Schedule a **15-Minute Discovery Call** and ensure you have a proper plan.
 
 

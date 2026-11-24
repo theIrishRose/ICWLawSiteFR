@@ -1,0 +1,13 @@
+{% comment %}
+  Guardian & Kids Protection Checklist call-out box.
+  Use anywhere:  {% include _guardian-checklist-cta.html %}
+  Optional custom wording:
+  {% include _guardian-checklist-cta.html heading="Your heading" text="Your sentence." %}
+{% endcomment %}
+{% assign gc_heading = include.heading | default: "Have young kids? Start here." %}
+{% assign gc_text = include.text | default: "My free Guardian &amp; Kids Protection Checklist walks you through 10 steps to make sure your children are cared for by the people you choose. It takes about 10 minutes." %}
+<div class="wl-checklist-cta" style="margin: 2.25rem 0; padding: 1.5rem 1.75rem; background: #f7f3ec; border-left: 5px solid #2a8b8b; border-radius: 2px;">
+  <h3 style="margin-top: 0; color: #032e70;">{{ gc_heading }}</h3>
+  <p>{{ gc_text }}</p>
+  <p style="margin-bottom: 0;"><a href="{{ site.baseurl }}/guardian-checklist/" class="wl-button wl-button--primary">Get the free checklist &rarr;</a></p>
+</div>
