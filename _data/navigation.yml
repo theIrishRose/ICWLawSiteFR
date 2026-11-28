@@ -10,12 +10,12 @@
   url: "/practice-areas/"
   side: left
   dropdown:
+  - title: "Estate Planning"
+    url: "/practice-areas/estate-planning/"
   - title: "Traffic Law"
     url: "/practice-areas/traffic-law/"
   - title: "Criminal Defense"
     url: "/practice-areas/criminal-defense/"
-  - title: "Estate Planning"
-    url: "/practice-areas/estate-planning/"
   - title: "Appeals"
     url: "/practice-areas/appeals/"
     
